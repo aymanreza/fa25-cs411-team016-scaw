@@ -4,15 +4,15 @@
 
 |   Info      |        Description     |
 | ----------- | ---------------------- |
-| TeamID      |        Team-000        |
-| TeamName    |         sample         |
-| Captain     |       Abdu Alawini     |
-| Captain     |  alawini@illinois.edu  |
-| Member1     |        Kevin Pei       |
-| Member1     |   kevin2@illinois.edu  |
-| Member2     |     Ti-Chung Cheng     |
-| Member2     |  tichung3@illinois.edu |
-| Member3     |                        |
+| TeamID      |        Team-016        |
+| TeamName    |         scaw         |
+| Captain     |       Shannon Hurd     |
+| Captain     |  shurd2@illinois.edu  |
+| Member1     |        Connie Lu       |
+| Member1     |   clu44@illinois.edu  |
+| Member2     |     Ayman     |
+| Member2     |   |
+| Member3     |    William             |
 | Member3     |                        |
 
 ## Project Information
