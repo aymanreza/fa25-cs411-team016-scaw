@@ -10,10 +10,10 @@
 | Captain     |  shurd2@illinois.edu  |
 | Member1     |        Connie Lu       |
 | Member1     |   clu44@illinois.edu  |
-| Member2     |     Ayman     |
-| Member2     |   |
-| Member3     |    William             |
-| Member3     |                        |
+| Member2     |     Ayman Reza     |
+| Member2     |  areza6 |
+| Member3     |    William Deng             |
+| Member3     |          wd10              |
 
 ## Project Information
 
