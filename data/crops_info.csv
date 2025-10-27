@@ -1,0 +1,1001 @@
+common_name,scientific_name,ideal_soil,sun_req,water_req,usda_zone_min,usda_zone_max
+Squash,Cucurbita moschata,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,2.0,11.0
+Pea,Pisum sativum,"Light (sandy), Medium",Full sun,Moist,3.0,9.0
+Cucamelon,Melothria scabra,,Full sun,,,
+Red mulberry,Morus rubra,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,9.0
+Common bean,Phaseolus vulgaris,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,2.0,11.0
+Sweet cherry,Prunus avium,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,7.0
+Peach,Prunus persica,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,5.0,9.0
+Sage,Salvia officinalis,"Light (sandy), Medium",Full sun,"Dry, Moist",3.0,11.0
+Jerusalem artichoke,Helianthus tuberosus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",4.0,8.0
+Beech,Fagus sylvatica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade","Dry, Moist",4.0,7.0
+Black locust,Robinia pseudoacacia,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",4.0,9.0
+Black walnut,Juglans nigra,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,4.0,9.0
+Chinese chestnut,Castanea mollissima,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",4.0,8.0
+English walnut,Juglans regia,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,5.0,9.0
+Honey locust,Gleditsia triacanthos,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",3.0,9.0
+Limber pine,Pinus flexilis,"Light (sandy), Medium",Full sun,"Dry, Moist",4.0,7.0
+Monkey puzzle,Araucaria araucana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,6.0,11.0
+Madrone,Arbutus menziesii,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist",7.0,9.0
+Pignut hickory,Carya glabra,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",4.0,9.0
+Pinyon pine,Pinus cembroides,"Light (sandy), Medium",Full sun,"Dry, Moist",5.0,8.0
+Ponderosa pine,Pinus ponderosa,"Light (sandy), Medium",Full sun,"Dry, Moist",4.0,8.0
+Shagbark hickory,Carya ovata,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",4.0,8.0
+Shellbark hickory,Carya laciniosa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Sour cherry,Prunus cerasus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,7.0
+Stone pine,Pinus pinea,"Light (sandy), Medium",Full sun,"Dry, Moist",7.0,11.0
+Sugar maple,Acer saccharum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,8.0
+Sweet chestnut,Castanea sativa,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",5.0,7.0
+Tree of heaven,Ailanthus altissima,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist, Wet",5.0,8.0
+Yellow buckeye,Aesculus flava,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Persian Silk Tree,Albizia julibrissin,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",6.0,9.0
+Alder,Alnus glutinosa,"Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",3.0,7.0
+Juneberry,Amelanchier canadensis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,7.0
+Chinese Angelica Tree,Aralia chinensis,"Light (sandy), Medium, Heavy (clay)","Partial sun/shade, Full shade",Moist,4.0,8.0
+Chokeberry,Aronia melanocarpa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",3.0,8.0
+Strawberry tree,Arbutus unedo,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist",7.0,11.0
+Manzanita,Arctostaphylos manzanita,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist",7.0,10.0
+Giant reed,Arundo donax,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",6.0,10.0
+Pawpaw,Asimina triloba,Medium,"Full sun, Partial sun/shade",Moist,5.0,8.0
+Salt bush,Atriplex canescens,"Light (sandy), Medium",Full sun,"Dry, Moist",6.0,9.0
+Spotted laurel,Aucuba japonica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade","Dry, Moist",7.0,10.0
+Coyote brush,Baccharis pilularis,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",8.0,10.0
+Bamboo,Bambusa textilis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,7.0,11.0
+Blue false indigo,Baptisia australis,"Light (sandy), Medium",Full sun,"Dry, Moist",3.0,9.0
+Barberry,Berberis vulgaris,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",3.0,7.0
+Butterfly bush,Buddleia davidii,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",4.0,8.0
+Common Box,Buxus sempervirens,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",6.0,9.0
+Bottlebrush,Callistemon citrinus,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist, Wet",8.0,11.0
+Scotch heather,Calluna vulgaris,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist",4.0,7.0
+Siberian pea shrub,Caragana arborescens,"Light (sandy), Medium",Full sun,"Dry, Moist",2.0,7.0
+American hornbeam,Carpinus caroliniana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,9.0
+Bittersweet,Celastrus orbiculatus,"Light (sandy), Medium","Full sun, Partial sun/shade, Full shade",Moist,4.0,8.0
+Common Hackberry,Celtis occidentalis,"Light (sandy), Medium",Full sun,"Dry, Moist",3.0,9.0
+Redbud,Cercis canadensis,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,4.0,9.0
+Japanese quince,Chaenomeles speciosa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade",Moist,4.0,8.0
+Mexican orange,Choisya ternata,"Light (sandy), Medium","Full sun, Partial sun/shade, Full shade",Moist,6.0,9.0
+Summersweet,Clethra alnifolia,"Light (sandy), Medium","Full sun, Partial sun/shade","Moist, Wet",4.0,8.0
+Cabbage palm,Cordyline australis,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,7.0,10.0
+Chinese dogwood,Cornus kousa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,8.0
+Cornelian cherry,Cornus mas,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Common Hazelnut,Corylus avellana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Azarole,Crataegus azarolus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",5.0,9.0
+Black hawthorn,Crataegus douglasii,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",4.0,8.0
+Persimmon,Diospyros kaki,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,7.0,10.0
+Date plum,Diospyros lotus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,7.0,9.0
+American persimmon,Diospyros virginiana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Mountain pepper,Tasmannia lanceolata,"Light (sandy), Medium",Partial sun/shade,Moist,7.0,10.0
+Winter's bark,Drimys winteri,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,7.0,10.0
+Russian olive,Elaeagnus angustifolia,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",2.0,7.0
+Silverberry,Elaeagnus commutata,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",2.0,6.0
+Goumi,Elaeagnus multiflora,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",5.0,9.0
+Autumn olive,Elaeagnus umbellata,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",3.0,7.0
+Elaeagnus,Elaeagnus x ebbingei,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade","Dry, Moist",5.0,9.0
+Escallonia,Escallonia species,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",8.0,11.0
+Pineapple guava,Acca sellowiana,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",8.0,11.0
+Fig,Ficus carica,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",6.0,12.0
+Fuchsia,Fuchsia magellanica,"Light (sandy), Medium, Heavy (clay)","Partial sun/shade, Full shade",Moist,5.0,7.0
+Ginkgo,Ginkgo biloba,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",3.0,8.0
+Kentucky Coffee Tree,Gymnocladus dioicus,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",3.0,8.0
+Witch hazel,Hamamelis virginiana,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,3.0,8.0
+Curry plant,Helichrysum italicum,"Light (sandy), Medium",Full sun,"Dry, Moist",7.0,10.0
+Mallow,Hibiscus syriacus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Sea-buckthorn,Hippophae rhamnoides,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist, Wet",3.0,7.0
+Oceanspray,Holodiscus discolor,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Japanese raisin tree,Hovenia dulcis,"Light (sandy), Medium",Full sun,Moist,5.0,9.0
+Hyssop,Hyssopus officinalis,"Light (sandy), Medium",Full sun,"Dry, Moist",3.0,11.0
+Iigeri tree,Idesia polycarpa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Bachelor's button,Kerria japonica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,9.0
+Golden-chain tree,Laburnum anagyroides,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",4.0,8.0
+Bay tree,Laurus nobilis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",8.0,10.0
+Lavender,Lavandula angustifolia,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",5.0,8.0
+Tree mallow,Lavatera arborea,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",8.0,8.0
+Bush clover,Lespedeza thunbergii,,Full sun,,5.0,5.0
+Glossy Privet,Ligustrum lucidum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade",Moist,8.0,10.0
+Chinese Boxthorn,Lycium chinense,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,5.0,9.0
+Amur Maackia,Maackia amurensis,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",4.0,7.0
+Osage orange,Maclura pomifera,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",4.0,9.0
+Apple,Malus domestica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,8.0
+Medlar,Mespilus germanica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,8.0
+White mulberry,Morus alba,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,9.0
+Black mulberry,Morus nigra,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Myrtle,Myrtus communis,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",8.0,9.0
+Nandina,Nandina domestica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,6.0,9.0
+Tupelo,Nyssa sylvatica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,9.0
+Oso berry,Oemleria cerasiformis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Olive,Olea europaea,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",8.0,10.0
+Devil's club,Oplopanax horridus,"Light (sandy), Medium, Heavy (clay)","Partial sun/shade, Full shade",Moist,4.0,8.0
+Mock orange,Philadelphus coronarius,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+New Zealand flax,Phormium tenax,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",8.0,10.0
+Bitter orange,Citrus trifoliata,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,6.0,8.0
+Cinquefoil,Potentilla fruticosa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,2.0,6.0
+Apricot,Prunus armeniaca,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,4.0,8.0
+Laurel cherry,Prunus caroliniana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",7.0,10.0
+Cherry plum,Prunus cerasifera,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+European plum,Prunus domestica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,9.0
+Almond,Prunus dulcis,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,5.0,8.0
+Fuji cherry,Prunus incisa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,7.0
+Damson,Prunus insititia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+English laurel,Prunus laurocerasus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade",Moist,6.0,8.0
+Portugese laurel,Prunus lusitanica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,6.0,9.0
+Nectarine,Prunus persica nucipersica,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,4.0,8.0
+Sloe,Prunus spinosa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Nanking cherry,Prunus tomentosa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,9.0
+Bamboo,Pseudosasa japonica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade","Moist, Wet",5.0,9.0
+California coffeeberry,Frangula californica,,"Full sun, Partial sun/shade",,7.0,7.0
+Carolina buckthorn,Frangula caroliniana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Cascara,Rhamnus purshiana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,6.0,6.0
+Lemonade berry,Rhus integrifolia,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",9.0,11.0
+Staghorn sumac,Rhus typhina,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",3.0,8.0
+Golden currant,Ribes aureum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",3.0,8.0
+Wax currant,Ribes cereum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",4.0,8.0
+Black currant,Ribes nigrum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Red currant,Ribes rubrum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Gooseberry,Ribes uva-crispa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Rose,Rosa,,"Full sun, Partial sun/shade",,2.0,2.0
+Rosemary,Salvia rosmarinus,"Light (sandy), Medium",Full sun,"Dry, Moist",6.0,11.0
+Himalayan Giant Blackberry,Rubus armeniacus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Red raspberry,Rubus idaeus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,8.0
+Black raspberry,Rubus occidentalis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,7.0
+Hooker's willow,Salix hookeriana,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",5.0,9.0
+Purple osier,Salix purpurea,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist, Wet",4.0,8.0
+Blue elderberry,Sambucus caerulea,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",4.0,8.0
+Black elderberry,Sambucus nigra,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,7.0
+Sassafras,Sassafras albidum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Buffaloberry,Shepherdia argentea,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",3.0,8.0
+Rowan,Sorbus aucuparia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,7.0
+Spanish broom,Spartium junceum,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",8.0,9.0
+Lilac,Syringa vulgaris,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,3.0,7.0
+French tamarisk,Tamarix gallica,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",4.0,8.0
+Northern Highbush Blueberry,Vaccinium corymbosum,"Light (sandy), Medium, Acidic","Full sun, Partial sun/shade",Moist,3.0,8.0
+Highbush - Cranberry,Viburnum trilobum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,2.0,7.0
+Yucca,Yucca spp.,,Full sun,,4.0,4.0
+Jujube,Ziziphus jujuba,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",5.0,10.0
+Horseradish,Armoracia rusticana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,9.0
+Nasturtium,Tropaeolum majus,"Light (sandy), Medium",Full sun,Moist,6.0,11.0
+Tayberry,Rubus fruticosus x idaeus,,,,6.0,10.0
+Blackberry,Rubus fruticosus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade",Moist,5.0,9.0
+Rhubarb,Rheum × hybridum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,8.0
+Siberian miner's lettuce,Claytonia sibirica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade","Dry, Moist",3.0,7.0
+Salmonberry,Rubus spectabilis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Chives,Allium schoenoprasum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,12.0
+Common Evening-Primrose,Oenothera biennis,"Light (sandy), Medium",Full sun,"Dry, Moist",4.0,8.0
+Pot marigold,Calendula officinalis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,2.0,11.0
+Garlic,Allium sativum,"Light (sandy), Medium",Full sun,"Dry, Moist",3.0,10.0
+Lemon balm,Melissa officinalis,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist",4.0,8.0
+White Mustard,Sinapis alba,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Potato,Solanum tuberosum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,3.0,10.0
+Spinach,Spinacia oleracea,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Tansy,Tanacetum vulgare,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",3.0,8.0
+Yarrow,Achillea millefolium,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",4.0,8.0
+Basil,Ocimum basilicum,"Light (sandy), Medium",Full sun,Moist,5.0,10.0
+Asparagus,Asparagus officinalis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,2.0,9.0
+Broad Bean,Vicia faba,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Runner Bean,Phaseolus coccineus,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,1.0,12.0
+Beet,Beta vulgaris vulgaris,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,4.0,8.0
+Borage,Borago officinalis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",6.0,9.0
+Carrot,Daucus carota sativus,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,3.0,10.0
+Celery,Apium graveolens,"Light (sandy), Medium, Heavy (clay)",Partial sun/shade,Moist,5.0,9.0
+Common Sunflower,Helianthus annuus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",6.0,9.0
+Tomato,Solanum lycopersicum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Marjoram,Origanum majorana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",6.0,9.0
+Parsley,Petroselinum crispum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,8.0
+Thyme,Thymus vulgaris,"Light (sandy), Medium",Full sun,"Dry, Moist",5.0,11.0
+Maximilian Sunflower,Helianthus maximiliani,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,4.0,10.0
+Pumpkin / Zucchini,Cucurbita pepo,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,2.0,11.0
+Giant red mustard,Brassica juncea,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,2.0,11.0
+Saskatoon berry,Amelanchier alnifolia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,2.0,7.0
+Hardy kiwi,Actinidia arguta,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,9.0
+Tiger nut,Cyperus esculentus,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",8.0,10.0
+Quinoa,Chenopodium quinoa,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Fennel,Foeniculum vulgare,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",4.0,9.0
+Ruta graveolens,Ruta graveolens,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",4.0,10.0
+Beta vulgaris cicla,Beta vulgaris cicla,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,4.0,8.0
+Zea mays,Zea mays,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,2.0,11.0
+Cucumis sativus,Cucumis sativus,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,9.0,11.0
+Solanum melongena,Solanum melongena,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,8.0,11.0
+Lactuca sativa,Lactuca sativa,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,5.0,9.0
+Allium cepa,Allium cepa,"Light (sandy), Medium",Full sun,Moist,3.0,9.0
+Pastinaca sativa,Pastinaca sativa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Strawberry,Fragaria × ananassa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Anethum graveolens,Anethum graveolens,"Light (sandy), Medium",Full sun,Moist,2.0,11.0
+Broccoli,Brassica oleracea italica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,2.0,11.0
+Coriandrum sativum,Coriandrum sativum,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist",2.0,11.0
+Brussel Sprouts,Brassica oleracea gemmifera,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Chamomile,Matricaria chamomilla,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",5.0,9.0
+Allium ampeloprasum,Allium ampeloprasum,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",5.0,9.0
+Raphanus sativus,Raphanus sativus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,2.0,11.0
+Cauliflower,Brassica oleracea botrytis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,10.0
+Anthriscus cerefolium,Anthriscus cerefolium,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade",Moist,6.0,9.0
+Common Grape Vine,Vitis vinifera,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",6.0,10.0
+Mentha pulegium,Mentha pulegium,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,6.0,9.0
+Satureja hortensis,Satureja hortensis,"Light (sandy), Medium",Full sun,"Dry, Moist",5.0,9.0
+Satureja montana,Satureja montana,"Light (sandy), Medium",Full sun,"Dry, Moist",6.0,11.0
+Urtica dioica,Urtica dioica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,10.0
+Savoy cabbage,Brassica oleracea sabauda,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,7.0,11.0
+Jalapeño Chili,Capsicum annuum cv. 'Jalapeño' ,,,,,
+Capsicum pubescens,Capsicum pubescens,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,8.0,11.0
+Walking onion,Allium × proliferum,"Light (sandy), Medium",Full sun,Moist,3.0,9.0
+Kale,Brassica oleracea acephala,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,10.0
+Lycium barbarum,Lycium barbarum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,6.0,9.0
+Vaccinium parvifolium,Vaccinium parvifolium,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,5.0,9.0
+Gaultheria shallon,Gaultheria shallon,"Light (sandy), Medium","Full sun, Partial sun/shade, Full shade","Dry, Moist",5.0,9.0
+Thuja plicata,Thuja plicata,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",5.0,8.0
+Verbascum thapsus,Verbascum thapsus,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",3.0,9.0
+Habanero,Capsicum chinense Habanero Group,,,,,
+Abelmoschus esculentus,Abelmoschus esculentus,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,5.0,11.0
+Kohlrabi,Brassica oleracea gongylodes,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Passiflora edulis,Passiflora edulis,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,9.0,12.0
+Capsicum Annuum Grossum,Capsicum Annuum Grossum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,11.0
+Triticum aestivum,Triticum aestivum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Ipomoea batatas,Ipomoea batatas,"Light (sandy), Medium",Full sun,Moist,10.0,12.0
+Taxus baccata,Taxus baccata,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade","Dry, Moist",5.0,7.0
+Turnip,Brassica rapa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,7.0,11.0
+Trifolium pratense,Trifolium pratense,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,5.0,9.0
+Artemisia dracunculus,Artemisia dracunculus,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist",5.0,8.0
+Fagopyrum esculentum,Fagopyrum esculentum,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",6.0,12.0
+Origanum vulgare,Origanum vulgare,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",4.0,10.0
+Carum carvi,Carum carvi,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,9.0
+Lupinus albus,Lupinus albus,"Light (sandy), Medium",Full sun,Moist,,
+Pimpinella anisum,Pimpinella anisum,"Light (sandy), Medium",Full sun,"Dry, Moist",7.0,10.0
+Sarcocornia pacifica,Sarcocornia pacifica,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Solanum nigrum,Solanum nigrum,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",9.0,11.0
+Solanum muricatum,Solanum muricatum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,8.0,11.0
+Solanum quitoense,Solanum quitoense,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,10.0,12.0
+Jurubeba,Solanum paniculatum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,10.0,12.0
+Solanum phureja,Solanum phureja,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,8.0,11.0
+Solanum lyratum,Solanum lyratum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Solanum maglia,Solanum maglia,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Solanum piliferum,Solanum piliferum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Simarouba glauca,Simarouba glauca,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",9.0,12.0
+Silphium laciniatum,Silphium laciniatum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Silphium perfoliatum,Silphium perfoliatum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,7.0
+Silphium terebinthinaceum,Silphium terebinthinaceum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Silene vulgaris,Silene vulgaris,"Light (sandy), Medium",Full sun,Moist,5.0,9.0
+Silphium integrifolium,Silphium integrifolium,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",4.0,8.0
+Sinofranchetia chinensis,Sinofranchetia chinensis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Sinomenium acutum,Sinomenium acutum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Silphium laeve,Silphium laeve,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Rubus roseus,Rubus roseus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Rubus trifidus,Rubus trifidus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Rubus rosa,Rubus rosa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Rubus thibetanus,Rubus thibetanus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Rubus tsangorum,Rubus tsangorum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Rubus ostryfolius,Rubus ostryfolius,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Rubus rhamnifolius,Rubus rhamnifolius,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Rubus thyrsanthus,Rubus thyrsanthus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Rubus rubiginosus,Rubus rubiginosus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Rubus radicans,Rubus radicans,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Salix viminalis,Salix viminalis,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",4.0,8.0
+Salvia apiana,Salvia apiana,"Light (sandy), Medium",Full sun,"Dry, Moist",7.0,10.0
+Salix triandra,Salix triandra,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",4.0,8.0
+Salix x smithiana,Salix x smithiana,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",4.0,8.0
+Salix x rubra,Salix x rubra,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",4.0,8.0
+Salix x mollisima undulata,Salix x mollisima undulata,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",5.0,9.0
+Salix x mollisima hippophaeifolia,Salix x mollisima hippophaeifolia,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",5.0,9.0
+Salix wallichiana,Salix wallichiana,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",,
+Sarcocornia utahensis,Sarcocornia utahensis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Salix alba,Salix alba,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",2.0,8.0
+Salix alba vitellina,Salix alba vitellina,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",,
+Salix alba caerulea,Salix alba caerulea,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",,
+Salix amygdaloides,Salix amygdaloides,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",4.0,8.0
+Salix acutifolia,Salix acutifolia,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",4.0,8.0
+Salix alaxensis,Salix alaxensis,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",3.0,7.0
+Salix aegyptiaca,Salix aegyptiaca,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",5.0,9.0
+Salix 'Americana',Salix 'Americana',"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",,
+Salicornia virginica,Salicornia virginica,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Salvia mellifera,Salvia mellifera,"Light (sandy), Medium",Full sun,"Dry, Moist",7.0,10.0
+Salvia moorcroftiana,Salvia moorcroftiana,"Light (sandy), Medium",Full sun,"Dry, Moist",6.0,9.0
+Salvia lanata,Salvia lanata,"Light (sandy), Medium",Full sun,"Dry, Moist",6.0,9.0
+Salvia japonica,Salvia japonica,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist",7.0,10.0
+Salvia lanigera,Salvia lanigera,"Light (sandy), Medium",Full sun,"Dry, Moist",,
+Dwarf Elder,Sambucus ebulus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Mexican Elder,Sambucus mexicana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,9.0
+Black Elder,Sambucus melanocarpa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Chinese Elder,Sambucus javanica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+White Elder,Sambucus gaudichaudiana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Sambucus chinensis,Sambucus chinensis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,7.0,10.0
+Red Elder,Sambucus microbotrys,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Sambucus latipinna,Sambucus latipinna,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Sapium sebiferum,Sapium sebiferum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,8.0,11.0
+Yucca schidigera,Yucca schidigera,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",9.0,10.0
+Santolina chamaecyparissus,Santolina chamaecyparissus,"Light (sandy), Medium",Full sun,"Dry, Moist",6.0,9.0
+Sapindus mukorossi,Sapindus mukorossi,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",8.0,12.0
+Santalum yasi,Santalum yasi,"Light (sandy), Medium",Full sun,"Dry, Moist",9.0,12.0
+Sapindus drummondii,Sapindus drummondii,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",7.0,10.0
+Saponaria ocymoides,Saponaria ocymoides,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",2.0,7.0
+Sapindus marginatus,Sapindus marginatus,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",7.0,10.0
+Talisia esculenta,Talisia esculenta,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Solanum torvum,Solanum torvum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,8.0,11.0
+Solanum scabrum,Solanum scabrum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,5.0,9.0
+Solanum simile,Solanum simile,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",8.0,11.0
+Solanum stenotomum goniocalyx,Solanum stenotomum goniocalyx,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Solanum stenotomum,Solanum stenotomum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Solanum sisymbriifolium,Solanum sisymbriifolium,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Solanum rybinii,Solanum rybinii,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Solanum septemlobum,Solanum septemlobum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Solanum retroflexum,Solanum retroflexum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Smilax aspera,Smilax aspera,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,8.0,11.0
+Smilax bona-nox,Smilax bona-nox,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Smilax auriculata,Smilax auriculata,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Smilax aristolochiifolia,Smilax aristolochiifolia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,10.0,12.0
+Smilacina racemosa,Smilacina racemosa,"Light (sandy), Medium, Heavy (clay)","Partial sun/shade, Full shade",Moist,2.0,8.0
+Spergula arvensis,Spergula arvensis,"Light (sandy), Medium",Full sun,Moist,,
+Smilacina purpurea,Smilacina purpurea,"Light (sandy), Medium, Heavy (clay)","Partial sun/shade, Full shade",Moist,,
+Spartina x townsendii,Spartina x townsendii,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",,
+Spartina pectinata,Spartina pectinata,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",4.0,8.0
+Salix hybrids,Salix hybrids,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",2.0,11.0
+Rubus odoratus,Rubus odoratus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,7.0
+Salix lasiolepis,Salix lasiolepis,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",4.0,8.0
+Salix gracilistyla,Salix gracilistyla,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",5.0,9.0
+Smilax china,Smilax china,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Sophora flavescens,Sophora flavescens,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,5.0,9.0
+Sonchus oleraceus,Sonchus oleraceus,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Sonchus arvensis,Sonchus arvensis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Sophora davidii,Sophora davidii,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",5.0,8.0
+Sonchus asper,Sonchus asper,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Sonchus brachyotus,Sonchus brachyotus,"Light (sandy), Medium, Heavy (clay)",,Moist,,
+Sonchus tenerrimus,Sonchus tenerrimus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Sonchus kirkii,Sonchus kirkii,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Salix nigra,Salix nigra,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",4.0,8.0
+Salix purpurea lambertiana,Salix purpurea lambertiana,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",4.0,8.0
+Salix scouleriana,Salix scouleriana,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",5.0,9.0
+Salix sitchensis,Salix sitchensis,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",4.0,8.0
+Salix repens,Salix repens,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Salix pulchra,Salix pulchra,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",,
+Salix taxifolia,Salix taxifolia,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",9.0,11.0
+Salix sungkianika,Salix sungkianika,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",,
+Salix schwerinii,Salix schwerinii,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",5.0,9.0
+Salvia verbenaca,Salvia verbenaca,"Light (sandy), Medium",Full sun,"Dry, Moist",5.0,9.0
+Salicornia europaea,Salicornia europaea,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",,
+Salvia viridis,Salvia viridis,"Light (sandy), Medium",Full sun,"Dry, Moist",,
+Salvia sylvestris,Salvia sylvestris,"Light (sandy), Medium",Full sun,"Dry, Moist",4.0,8.0
+Salvia tiliifolia,Salvia tiliifolia,"Light (sandy), Medium",Full sun,"Dry, Moist",9.0,11.0
+Salvia tomentosa,Salvia tomentosa,"Light (sandy), Medium",Full sun,"Dry, Moist",5.0,9.0
+Salicornia bigelovii,Salicornia bigelovii,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Salicornia rubra,Salicornia rubra,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Salicornia quinqueflora,Salicornia quinqueflora,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Salix caprea,Salix caprea,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist, Wet",4.0,9.0
+Salix eriocephala,Salix eriocephala,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",5.0,9.0
+Salix exigua,Salix exigua,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",,
+Salix daphnoides,Salix daphnoides,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",4.0,8.0
+Salix cinerea,Salix cinerea,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",2.0,7.0
+Salix chaenomeloides,Salix chaenomeloides,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",6.0,8.0
+Salix commutata,Salix commutata,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",4.0,8.0
+Salix decipiens,Salix decipiens,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",,
+Yellow Elderberry,Sambucus australasica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Yucca baccata,Yucca baccata,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",6.0,11.0
+Santalum austrocaledonicum,Santalum austrocaledonicum,"Light (sandy), Medium",Full sun,"Dry, Moist",10.0,12.0
+Pitcher Plant,Sarracenia purpurea,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Wet,4.0,9.0
+Sarcobatus vermiculatus,Sarcobatus vermiculatus,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",4.0,8.0
+Santalum acuminatum,Santalum acuminatum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Yellow Trumpet,Sarracenia flava,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Wet,6.0,9.0
+Salix hastata,Salix hastata,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",5.0,9.0
+Salix lanata,Salix lanata,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",,
+Salix koriyanagi,Salix koriyanagi,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",5.0,9.0
+Salix japonica,Salix japonica,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",,
+Salvia sclarea,Salvia sclarea,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",5.0,9.0
+Salvia multiorrhiza,Salvia multiorrhiza,"Light (sandy), Medium",Full sun,"Dry, Moist",5.0,9.0
+Salvia pomifera,Salvia pomifera,"Light (sandy), Medium",Full sun,"Dry, Moist",7.0,10.0
+Salvia pratensis,Salvia pratensis,"Light (sandy), Medium",Full sun,"Dry, Moist",3.0,7.0
+Salvia plebeia,Salvia plebeia,"Light (sandy), Medium",Full sun,"Moist, Wet",,
+Salvia multicaulis,Salvia multicaulis,"Light (sandy), Medium",Full sun,"Dry, Moist",7.0,10.0
+Salvia reflexa,Salvia reflexa,"Light (sandy), Medium",Full sun,"Dry, Moist",,
+Salvia stachyoides,Salvia stachyoides,"Light (sandy), Medium",Full sun,"Dry, Moist",,
+Sambucus nigra spp canadensis,Sambucus nigra spp canadensis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,9.0
+Sambucus racemosa,Sambucus racemosa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,7.0
+Sambucus racemosa kamtschatica,Sambucus racemosa kamtschatica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Sambucus pubens,Sambucus pubens,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Elder,Sambucus wightiana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Red Coast Elder,Sambucus racemosa var. racemosa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Sambucus williamsii,Sambucus williamsii,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Sambucus racemosa sieboldiana,Sambucus racemosa sieboldiana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Solanum aethiopicum,Solanum aethiopicum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Solanum ajanhuiri,Solanum ajanhuiri,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,9.0,11.0
+Salsola kali,Salsola kali,"Light (sandy), Medium",Full sun,"Dry, Moist",,
+Santolina rosmarinifolia,Santolina rosmarinifolia,"Light (sandy), Medium",Full sun,"Dry, Moist",6.0,10.0
+Santolina pinnata neopolitana,Santolina pinnata neopolitana,"Light (sandy), Medium",Full sun,"Dry, Moist",6.0,9.0
+Salsola soda,Salsola soda,"Light (sandy), Medium",Full sun,"Dry, Moist",,
+Salsola collina,Salsola collina,"Light (sandy), Medium",Full sun,"Dry, Moist",,
+Salsola tragus,Salsola tragus,"Light (sandy), Medium",Full sun,"Dry, Moist",,
+Salsola komarovii,Salsola komarovii,"Light (sandy), Medium",Full sun,"Dry, Moist",,
+Solanum vescum,Solanum vescum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Solidago canadensis scabra,Solidago canadensis scabra,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,7.0
+Solanum triflorum,Solanum triflorum,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",,
+Solidago leavenworthii,Solidago leavenworthii,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Solidago gigantea,Solidago gigantea,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Solidago fistulosa,Solidago fistulosa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Solidago japonica,Solidago japonica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Soldanella alpina,Soldanella alpina,"Light (sandy), Medium, Heavy (clay)",Partial sun/shade,Moist,4.0,8.0
+Salix fragilis,Salix fragilis,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",4.0,8.0
+Salix miyabeana,Salix miyabeana,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",5.0,9.0
+Salix pentandra,Salix pentandra,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",2.0,5.0
+Salix matsudana,Salix matsudana,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",4.0,8.0
+Shining Willow,Salix lucida,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",,
+Salix piperi,Salix piperi,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",,
+Salix lucida lasiandra,Salix lucida lasiandra,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",,
+Salix nipponica,Salix nipponica,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",,
+Salix petiolaris,Salix petiolaris,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",,
+Salvia hispanica,Salvia hispanica,"Light (sandy), Medium",Full sun,"Dry, Moist",8.0,11.0
+Salvia lavandulifolia,Salvia lavandulifolia,"Light (sandy), Medium",Full sun,"Dry, Moist",4.0,8.0
+Cancer Weed,Salvia lyrata,"Light (sandy), Medium","Partial sun/shade, Full sun","Dry, Moist",4.0,9.0
+Salvia microphylla,Salvia microphylla,"Light (sandy), Medium",Full sun,"Dry, Moist",7.0,10.0
+Salix gooddingii,Salix gooddingii,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",8.0,10.0
+Trichilia dregeana,Trichilia dregeana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,10.0,12.0
+Skimmia laureola,Skimmia laureola,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,6.0,9.0
+Sophora tonkinensis,Sophora tonkinensis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Skimmia japonica,Skimmia japonica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade",Moist,6.0,7.0
+Trichosanthes cucumerina anguina,Trichosanthes cucumerina anguina,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Sophora moorcroftiana,Sophora moorcroftiana,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Sophora sericea,Sophora sericea,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",,
+Acacia holosericea,Acacia holosericea,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Acacia colei,Acacia colei,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",10.0,12.0
+Acacia dealbata,Acacia dealbata,"Light (sandy), Medium",Full sun,"Dry, Moist",7.0,10.0
+Acacia mearnsii,Acacia mearnsii,"Light (sandy), Medium",Full sun,Moist,8.0,11.0
+Acacia farnesiana,Acacia farnesiana,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",9.0,11.0
+Acacia leucophloea,Acacia leucophloea,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",10.0,12.0
+Acacia koa,Acacia koa,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",10.0,12.0
+Acacia longifolia,Acacia longifolia,Light (sandy),Full sun,"Dry, Moist",10.0,11.0
+Koai'a,Acacia koaia,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",10.0,12.0
+Acacia decurrens,Acacia decurrens,"Light (sandy), Medium",Full sun,"Dry, Moist",6.0,9.0
+Adansonia digitata,Adansonia digitata,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",10.0,12.0
+Anacardium occidentale,Anacardium occidentale,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,9.0,12.0
+Albizia procera,Albizia procera,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Caryocar brasiliense,Caryocar brasiliense,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",10.0,12.0
+Artemisia scoparia,Artemisia scoparia,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",3.0,7.0
+Eleutherococcus gracylistylus,Eleutherococcus gracylistylus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Eleutherococcus divaricatus,Eleutherococcus divaricatus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Eleutherococcus japonicus,Eleutherococcus japonicus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Eleutherococcus innovans,Eleutherococcus innovans,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,6.0,9.0
+Falcataria moluccana,Falcataria moluccana,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Gaultheria adenothrix,Gaultheria adenothrix,"Light (sandy), Medium","Partial sun/shade, Full shade",Moist,8.0,11.0
+Actinidia asymmetrica,Actinidia asymmetrica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Actinidia callosa henryi,Actinidia callosa henryi,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,7.0,10.0
+Actinidia arguta rufa,Actinidia arguta rufa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Actinea acaulis arizonica,Actinea acaulis arizonica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Actinidia melanandra,Actinidia melanandra,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Wolfbane,Aconitum lycoctonum vulparia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,7.0
+Actinidia maloides,Actinidia maloides,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Actinidia latifolia,Actinidia latifolia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Actinidia lanceolata,Actinidia lanceolata,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Actinidia longicauda,Actinidia longicauda,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Aconitum maximum,Aconitum maximum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Aconitum multifidum,Aconitum multifidum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Aconitum mokchangense,Aconitum mokchangense,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Actinidia polygama,Actinidia polygama,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Actinidia purpurea,Actinidia purpurea,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Actinidia pilosula,Actinidia pilosula,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Actinidia petelotii,Actinidia petelotii,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Actinidia rudis,Actinidia rudis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Actinidia sabiifolia,Actinidia sabiifolia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Actinidia polygama lecomtei,Actinidia polygama lecomtei,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Actinidia rubricaulis,Actinidia rubricaulis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Actinidia rubus,Actinidia rubus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Aconitum heterophyllum,Aconitum heterophyllum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Acrocomia aculeata,Acrocomia aculeata,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",10.0,12.0
+Wolfsbane,Aconitum lycoctonum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,7.0
+Bei Wu Tou,Aconitum kusnezoffii,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Acrocarpus fraxinifolius,Acrocarpus fraxinifolius,Medium,Full sun,Moist,10.0,12.0
+Aconitum koreanum,Aconitum koreanum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Aconitum japonicum,Aconitum japonicum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Acrotriche aggregata,Acrotriche aggregata,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Acrotriche depressa,Acrotriche depressa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Sium latifolium,Sium latifolium,"Light (sandy), Medium",Full sun,"Wet, Water",5.0,9.0
+Sium serra,Sium serra,"Light (sandy), Medium",Full sun,"Moist, Wet",,
+Sium helenianum,Sium helenianum,"Light (sandy), Medium",Full sun,Moist,,
+Sisymbrium altissimum,Sisymbrium altissimum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",,
+Bermuda Blue-Eyed Grass,Sisyrinchium angustifolium,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,7.0
+Small tumbleweed mustard,Sisymbrium loeselii,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",,
+Sison amomum,Sison amomum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Xanthium strumarium,Xanthium strumarium,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",6.0,9.0
+Xanthorrhoea australis,Xanthorrhoea australis,"Light (sandy), Medium",Full sun,Moist,,
+Xanthoceras sorbifolium,Xanthoceras sorbifolium,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",4.0,7.0
+Xerophyllum tenax,Xerophyllum tenax,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,4.0,8.0
+Xanthorhiza simplicissima,Xanthorhiza simplicissima,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade","Moist, Wet",5.0,9.0
+Xanthostemon verdugonianus,Xanthostemon verdugonianus,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Spiny Cocklebur,Xanthium spinosum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,6.0,9.0
+Xanthium commune,Xanthium commune,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Acacia murrayana,Acacia murrayana,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",10.0,12.0
+Acacia saligna,Acacia saligna,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",7.0,10.0
+Acacia melanoxylon,Acacia melanoxylon,"Light (sandy), Medium",Full sun,"Dry, Moist",9.0,11.0
+Acacia pycnantha,Acacia pycnantha,Light (sandy),Full sun,"Dry, Moist",7.0,10.0
+Acacia retinodes,Acacia retinodes,"Light (sandy), Medium",Full sun,"Dry, Moist",7.0,10.0
+Acacia mucronata,Acacia mucronata,Light (sandy),Full sun,"Dry, Moist",7.0,10.0
+Acacia sophorae,Acacia sophorae,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",,
+Acacia podalyriifolia,Acacia podalyriifolia,"Light (sandy), Medium",Full sun,"Dry, Moist",7.0,10.0
+Acacia paradoxa,Acacia paradoxa,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",7.0,10.0
+Adenophora liliifolia,Adenophora liliifolia,"Light (sandy), Medium",Full sun,Moist,3.0,8.0
+Adenanthera pavonina,Adenanthera pavonina,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Adenophora stricta,Adenophora stricta,"Light (sandy), Medium",Full sun,Moist,7.0,9.0
+Adenophora remotiflora,Adenophora remotiflora,"Light (sandy), Medium",Full sun,Moist,5.0,9.0
+Adenophora nikoensis,Adenophora nikoensis,"Light (sandy), Medium",Full sun,Moist,5.0,9.0
+Adenophora divaricata,Adenophora divaricata,"Light (sandy), Medium",Full sun,Moist,,
+Adenophora latifolia,Adenophora latifolia,"Light (sandy), Medium",Full sun,Moist,,
+Adenophora denticulata,Adenophora denticulata,"Light (sandy), Medium",Full sun,Moist,6.0,9.0
+Adenophora lamarkii,Adenophora lamarkii,"Light (sandy), Medium",Full sun,Moist,5.0,9.0
+Actinidia arguta cordifolia,Actinidia arguta cordifolia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Actinidia callosa,Actinidia callosa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,6.0,9.0
+Actinidia arisanensis,Actinidia arisanensis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Actinidia callosa formosana,Actinidia callosa formosana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Sisymbrium matritense,Sisymbrium matritense,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Sisymbrium crassifolium,Sisymbrium crassifolium,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Siphonostegia chinensis,Siphonostegia chinensis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Sium sisarum,Sium sisarum,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,4.0,9.0
+Smilax glabra,Smilax glabra,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Smilax hispida,Smilax hispida,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Smilax glauca,Smilax glauca,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",4.0,8.0
+Sium suave,Sium suave,"Light (sandy), Medium",Full sun,"Moist, Wet",4.0,8.0
+Smilax febrifuga,Smilax febrifuga,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,10.0,12.0
+Smilax discotis,Smilax discotis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,7.0,10.0
+Sarsparilla,Smilax glyciphylla,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Smilax cordifolia,Smilax cordifolia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Smilax officinalis,Smilax officinalis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,10.0,12.0
+Smilax rotundifolia,Smilax rotundifolia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,9.0
+Smilax nipponica,Smilax nipponica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Smilax tamnoides,Smilax tamnoides,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Smilax lanceifolia,Smilax lanceifolia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Smilax pseudochina,Smilax pseudochina,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",,
+Smilax trinervula,Smilax trinervula,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Smilax riparia,Smilax riparia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Smilax sieboldii,Smilax sieboldii,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Sorbus americana,Sorbus americana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,2.0,6.0
+Sorbus decora,Sorbus decora,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Smyrnium olusatrum,Smyrnium olusatrum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Sorbus austriaca,Sorbus austriaca,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Sorbus commixta,Sorbus commixta,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Yellow pimpernel,Taenidia integerrima,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist",4.0,6.0
+Sorbaria sorbifolia,Sorbaria sorbifolia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,2.0,7.0
+Smyrnium perfoliatum,Smyrnium perfoliatum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Sorbopyrus species,Sorbopyrus species,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Sorbus sitchensis,Sorbus sitchensis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Sorbus scopulina,Sorbus scopulina,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Allium sativum ophioscorodon,Allium sativum ophioscorodon,"Light (sandy), Medium",Full sun,"Dry, Moist",7.0,10.0
+Allium schoenoprasum sibiricum,Allium schoenoprasum sibiricum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Allium scorodoprasum,Allium scorodoprasum,"Light (sandy), Medium",Full sun,"Dry, Moist",6.0,9.0
+Allium sacculiferum,Allium sacculiferum,"Light (sandy), Medium",Full sun,Moist,,
+Allium scorodoprasum rotundum,Allium scorodoprasum rotundum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,6.0,9.0
+Allium semenovii,Allium semenovii,"Light (sandy), Medium",Full sun,Moist,5.0,9.0
+Allium ruhmerianum,Allium ruhmerianum,"Light (sandy), Medium",Full sun,Moist,,
+Amaranthus tricolor,Amaranthus tricolor,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,2.0,11.0
+Celosia argentea cristata,Celosia argentea cristata,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",9.0,12.0
+Amaranthus viridis,Amaranthus viridis,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,7.0,11.0
+Carapa guianensis,Carapa guianensis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade","Moist, Wet",10.0,12.0
+Amaranthus standleyanus,Amaranthus standleyanus,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Amaranthus torreyi,Amaranthus torreyi,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Amaranthus thunbergii,Amaranthus thunbergii,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Amaranthus tenuifolius,Amaranthus tenuifolius,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Origanum dictamnus,Origanum dictamnus,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",7.0,9.0
+Stellaria media,Stellaria media,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,11.0
+Aloe ferox,Aloe ferox,"Light (sandy), Medium",Full sun,Dry,9.0,11.0
+Tanzanian Aloe,Aloe macrosiphon,"Light (sandy), Medium","Full sun, Partial sun/shade",Dry,9.0,11.0
+Star chickweed,Stellaria pubera,"Medium, Heavy (clay)","Partial sun/shade, Full shade",Moist,5.0,8.0
+Aloe,Aloe camperi,"Light (sandy), Medium","Full sun, Partial sun/shade",Dry,9.0,12.0
+Stellaria graminea,Stellaria graminea,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Stellaria jamesiana,Stellaria jamesiana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,9.0
+American chickweed,Stellaria dichotoma,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Stellaria alsine,Stellaria alsine,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Aralia nudicaulis,Aralia nudicaulis,"Light (sandy), Medium, Heavy (clay)","Partial sun/shade, Full shade",Moist,4.0,8.0
+Allium bodeanum,Allium bodeanum,"Light (sandy), Medium",Full sun,"Dry, Moist",,
+Trifolium hybridum,Trifolium hybridum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Trifolium fimbriatum,Trifolium fimbriatum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Trifolium incarnatum,Trifolium incarnatum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,3.0,9.0
+Trifolium subterraneum,Trifolium subterraneum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,7.0,10.0
+Trifolium dichotomum,Trifolium dichotomum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Trifolium tridentatum,Trifolium tridentatum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Trifolium obtusiflorum,Trifolium obtusiflorum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Trifolium lupinaster,Trifolium lupinaster,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Trifolium variegatum,Trifolium variegatum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Trifolium microcephalum,Trifolium microcephalum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Theobroma cacao,Theobroma cacao,"Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade",Moist,10.0,12.0
+Theobroma glaucum,Theobroma glaucum,"Medium, Heavy (clay)",Partial sun/shade,Moist,10.0,12.0
+Thladiantha dubia,Thladiantha dubia,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,6.0,9.0
+Thermopsis lupinoides,Thermopsis lupinoides,"Light (sandy), Medium",Full sun,"Dry, Moist",3.0,7.0
+Woodland parsnip,Thaspium trifoliatum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",4.0,9.0
+Thelymitra longifolia,Thelymitra longifolia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Navajo Tea,Thelesperma megapotamicum,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",,
+Thelymitra pulchella,Thelymitra pulchella,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Thelesperma trifidum,Thelesperma trifidum,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",,
+Terminalia catappa,Terminalia catappa,"Light (sandy), Medium",Full sun,Moist,10.0,12.0
+Terminalia chebula,Terminalia chebula,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Terminalia ivorensis,Terminalia ivorensis,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Telfairia occidentalis,Telfairia occidentalis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade",Moist,10.0,12.0
+Terminalia kaernbachii,Terminalia kaernbachii,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Tephrosia virginiana,Tephrosia virginiana,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",4.0,8.0
+Allium atropurpureum,Allium atropurpureum,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,7.0,10.0
+Allium altaicum,Allium altaicum,"Light (sandy), Medium",Full sun,Moist,,
+Allium angulare,Allium angulare,"Light (sandy), Medium",Full sun,Moist,,
+Aletris farinosa,Aletris farinosa,"Light (sandy), Medium",Full sun,Moist,6.0,9.0
+Aletris spicata,Aletris spicata,"Light (sandy), Medium",Full sun,Moist,,
+Prosopis juliflora,Prosopis juliflora,"Light (sandy), Medium",Full sun,"Dry, Moist",7.0,12.0
+Allium roseum,Allium roseum,"Light (sandy), Medium",Full sun,"Dry, Moist",7.0,10.0
+Allium ramosum,Allium ramosum,"Light (sandy), Medium",Full sun,"Dry, Moist",6.0,9.0
+Allium rubellum,Allium rubellum,"Light (sandy), Medium",Full sun,"Dry, Moist",,
+Elaeis oleifera,Elaeis oleifera,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Alhagi maurorum,Alhagi maurorum,"Light (sandy), Medium",Full sun,"Dry, Moist",6.0,10.0
+Alkanna tinctoria,Alkanna tinctoria,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist",,
+Limnocharis flava,Limnocharis flava,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet, Water",10.0,12.0
+Alhagi mannifera,Alhagi mannifera,"Light (sandy), Medium",Full sun,"Dry, Moist",,
+Amaranthus hybridus,Amaranthus hybridus,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,6.0,12.0
+Amaranthus hypochondriacus,Amaranthus hypochondriacus,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,3.0,10.0
+Allium wallichii,Allium wallichii,"Light (sandy), Medium",Full sun,Moist,7.0,10.0
+Amaranthus mangostanus,Amaranthus mangostanus,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Allocasuarina littoralis,Allocasuarina littoralis,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,9.0,11.0
+Vitex payos,Vitex payos,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",10.0,12.0
+Casuarina torulosa,Casuarina torulosa,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",8.0,11.0
+Dysoxylum acutangulum,Dysoxylum acutangulum,"Light (sandy), Medium",Full sun,Moist,10.0,12.0
+Dysoxylum fraserianum,Dysoxylum fraserianum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Alnus rubra,Alnus rubra,"Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",7.0,8.0
+Meadow zizia,Zizia aptera,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",4.0,8.0
+Telopea speciosissima,Telopea speciosissima,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,8.0,11.0
+Fringe Cups,Tellima grandiflora,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Tragopogon pratensis,Tragopogon pratensis,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,3.0,7.0
+Tragopogon porrifolius,Tragopogon porrifolius,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,4.0,8.0
+Tiarella cordifolia,Tiarella cordifolia,"Light (sandy), Medium, Heavy (clay)","Partial sun/shade, Full shade",Moist,3.0,9.0
+Trapa natans,Trapa natans,"Light (sandy), Medium, Heavy (clay)",Full sun,Water,6.0,12.0
+Trapa bicornis,Trapa bicornis,"Light (sandy), Medium, Heavy (clay)",Full sun,Water,4.0,8.0
+Tigridia pavonia,Tigridia pavonia,"Light (sandy), Medium",Full sun,"Dry, Moist",7.0,10.0
+Trapa japonica,Trapa japonica,"Light (sandy), Medium, Heavy (clay)",Full sun,Water,,
+Trapa incisa,Trapa incisa,"Light (sandy), Medium, Heavy (clay)",Full sun,Water,,
+Tragopogon hispanica,Tragopogon hispanica,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Hercules Club Prickly Ash - Southern,Zanthoxylum clava-herculis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,7.0,11.0
+Zanthoxylum bungeanum,Zanthoxylum bungeanum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Tribulus terrestris,Tribulus terrestris,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",,
+Zanthoxylum alatum,Zanthoxylum alatum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Torreya yunnanensis,Torreya yunnanensis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade",Moist,7.0,10.0
+Zanthoxylum beecheyanum,Zanthoxylum beecheyanum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Zanthoxylum ailanthoides,Zanthoxylum ailanthoides,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,8.0,11.0
+Zantedeschia aethiopica,Zantedeschia aethiopica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Wet, Water",8.0,10.0
+Zanthoxylum coreanum,Zanthoxylum coreanum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Yucca angustissima,Yucca angustissima,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",4.0,9.0
+Yucca constricta,Yucca constricta,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",8.0,11.0
+Wyethia mollis,Wyethia mollis,"Light (sandy), Medium",Full sun,Moist,7.0,10.0
+Wyethia longicaulis,Wyethia longicaulis,"Light (sandy), Medium",Full sun,Moist,,
+Mother-in-Law's Tongue,Sansevieria trifasciata,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",10.0,12.0
+Sanicula europaea,Sanicula europaea,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Maryland Sanicle,Sanicula marylandica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Sanicula rubriflora,Sanicula rubriflora,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Sanicula tuberculata,Sanicula tuberculata,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Sanicula chinensis,Sanicula chinensis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Sanicula tuberosa,Sanicula tuberosa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Sanseviera aethiopica,Sanseviera aethiopica,"Light (sandy), Medium",Full sun,"Dry, Moist",9.0,11.0
+Solanum aviculare,Solanum aviculare,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,8.0,11.0
+Solanum carolinense,Solanum carolinense,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,7.0
+Solanum andigenum,Solanum andigenum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Solanum curtilobum,Solanum curtilobum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Solanum chaucha,Solanum chaucha,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Solanum americanum,Solanum americanum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Solanum cari,Solanum cari,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Solanum boyacense,Solanum boyacense,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Solanum boreale,Solanum boreale,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Solidago odora,Solidago odora,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",3.0,7.0
+Solidago nemoralis,Solidago nemoralis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",,
+Solidago spathulata,Solidago spathulata,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,9.0
+Solidago missouriensis,Solidago missouriensis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",6.0,9.0
+Solidago spectabilis,Solidago spectabilis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,6.0,9.0
+Sorbus intermedia,Sorbus intermedia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Sorbus devoniensis,Sorbus devoniensis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,6.0,9.0
+Sorbus hybrida,Sorbus hybrida,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Sorbus mougeotii,Sorbus mougeotii,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Sorbus species,Sorbus species,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,6.0,9.0
+Sorbus sambucifolia,Sorbus sambucifolia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Sorbus gracilis,Sorbus gracilis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Sorghum bicolor,Sorghum bicolor,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",9.0,12.0
+Sorbus vestita,Sorbus vestita,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,6.0,9.0
+Sparganium stoloniferum,Sparganium stoloniferum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Wet, Water",,
+Spartina anglica,Spartina anglica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",,
+Sparganium americanum,Sparganium americanum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Wet, Water",,
+Sparganium erectum,Sparganium erectum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade","Wet, Water",4.0,8.0
+Sparganium androcladum,Sparganium androcladum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Wet, Water",,
+Sparaxis bulbifera,Sparaxis bulbifera,Light (sandy),Full sun,"Dry, Moist",8.0,11.0
+Sparganium longifolium,Sparganium longifolium,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Wet, Water",,
+Sophora japonica,Sophora japonica,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,4.0,9.0
+Trichilia emetica,Trichilia emetica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",10.0,12.0
+Alchemilla alpina,Alchemilla alpina,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",3.0,7.0
+Aleurites cordata,Aleurites cordata,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,9.0,11.0
+Reutealis trisperma,Reutealis trisperma,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,9.0,12.0
+Lady's-mantle,Alchemilla mollis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade",Moist,3.0,8.0
+Allium ursinum,Allium ursinum,"Light (sandy), Medium","Full sun, Partial sun/shade, Full shade",Moist,4.0,8.0
+Allium vineale,Allium vineale,"Light (sandy), Medium",Full sun,"Dry, Moist",5.0,8.0
+Allium triquetrum,Allium triquetrum,"Light (sandy), Medium","Full sun, Partial sun/shade, Full shade",Moist,7.0,10.0
+Allium tuberosum,Allium tuberosum,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",4.0,8.0
+Allium tricoccum,Allium tricoccum,"Light (sandy), Medium",Partial sun/shade,Moist,5.0,9.0
+Allium victorialis,Allium victorialis,"Light (sandy), Medium",Full sun,"Dry, Moist",6.0,9.0
+Allium validum,Allium validum,"Light (sandy), Medium",Full sun,"Moist, Wet",7.0,10.0
+Allium unifolium,Allium unifolium,"Light (sandy), Medium",Full sun,"Dry, Moist",7.0,10.0
+Allium thunbergii,Allium thunbergii,"Light (sandy), Medium",Full sun,Moist,7.0,10.0
+Alnus acuminata,Alnus acuminata,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,10.0,12.0
+Alnus jorullensis,Alnus jorullensis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",7.0,12.0
+Alnus incana,Alnus incana,"Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist, Wet",2.0,6.0
+Alnus cordata,Alnus cordata,"Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist, Wet",5.0,9.0
+Alnus japonica,Alnus japonica,"Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist, Wet",4.0,8.0
+Alnus maritima,Alnus maritima,"Medium, Heavy (clay)",Full sun,"Moist, Wet",3.0,7.0
+Alnus hirsuta,Alnus hirsuta,"Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",3.0,7.0
+Origanum x hybridum,Origanum x hybridum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",7.0,10.0
+Aloe vera,Aloe vera,"Light (sandy), Medium",Full sun,"Dry, Moist",9.0,11.0
+Amaranthus blitum,Amaranthus blitum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,4.0,8.0
+Colocasia esculenta,Colocasia esculenta,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",9.0,11.0
+Amaranthus blitoides,Amaranthus blitoides,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,6.0,10.0
+Amaranthus albus,Amaranthus albus,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,8.0,10.0
+Amaranthus bidentata,Amaranthus bidentata,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Perry's Aloe,Aloe perryi,"Light (sandy), Medium",Full sun,Dry,10.0,12.0
+Lemon Verbena,Aloysia citrodora,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist",7.0,10.0
+Alopecurus aequalis,Alopecurus aequalis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",,
+Aralia spinosa,Aralia spinosa,"Light (sandy), Medium, Heavy (clay)","Partial sun/shade, Full shade",Moist,5.0,9.0
+Panax ginseng,Panax ginseng,"Light (sandy), Medium, Heavy (clay)","Partial sun/shade, Full shade",Moist,5.0,9.0
+Panax quinquefolius,Panax quinquefolius,"Light (sandy), Medium, Heavy (clay)","Partial sun/shade, Full shade",Moist,3.0,7.0
+Araucaria angustifolia,Araucaria angustifolia,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,9.0,12.0
+Cardamine hirsuta,Cardamine hirsuta,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Araucaria bidwillii,Araucaria bidwillii,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,9.0,11.0
+Panax pseudoginseng,Panax pseudoginseng,"Light (sandy), Medium, Heavy (clay)","Partial sun/shade, Full shade",Moist,5.0,9.0
+Araujia sericifera,Araujia sericifera,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,8.0,11.0
+Allium paradoxum,Allium paradoxum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade",Moist,7.0,10.0
+Allium neapolitanum,Allium neapolitanum,"Light (sandy), Medium",Full sun,"Dry, Moist",7.0,10.0
+Alnus nepalensis,Alnus nepalensis,"Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",8.0,11.0
+Alnus rugosa,Alnus rugosa,"Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",2.0,6.0
+Alnus rhombifolia,Alnus rhombifolia,"Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",8.0,11.0
+Alnus tenuifolia,Alnus tenuifolia,"Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",5.0,7.0
+Alnus sinuata,Alnus sinuata,"Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",2.0,9.0
+Alnus serrulata,Alnus serrulata,"Medium, Heavy (clay)",Full sun,"Moist, Wet",3.0,9.0
+Alnus nitida,Alnus nitida,"Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist, Wet",7.0,10.0
+Alnus maximowiczii,Alnus maximowiczii,"Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",4.0,8.0
+Malva sylvestris,Malva sylvestris,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Aloe arborescens,Aloe arborescens,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist",10.0,11.0
+Althaea officinalis,Althaea officinalis,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",3.0,7.0
+Arachis hypogaea,Arachis hypogaea,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,7.0,10.0
+Alocasia macrorrhizos,Alocasia macrorrhizos,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade",Moist,10.0,12.0
+Arachis pintoi,Arachis pintoi,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade","Moist, Wet",8.0,12.0
+Lobularia maritima,Lobularia maritima,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",6.0,9.0
+Aurinia saxatilis,Aurinia saxatilis,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",4.0,10.0
+Aquilegia canadensis,Aquilegia canadensis,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,4.0,10.0
+Aquilegia formosa,Aquilegia formosa,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,3.0,7.0
+Aquilegia formosa truncata,Aquilegia formosa truncata,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,3.0,7.0
+Aquilegia coerulea,Aquilegia coerulea,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,3.0,7.0
+Aquilegia flabellata,Aquilegia flabellata,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,3.0,9.0
+Aquilegia pubescens,Aquilegia pubescens,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,4.0,8.0
+Aquilegia flavescens,Aquilegia flavescens,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,4.0,8.0
+Aquilegia jonesii,Aquilegia jonesii,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,3.0,7.0
+Aquilegia karelinii,Aquilegia karelinii,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,,
+Allium cepa ascalonicum,Allium cepa ascalonicum,"Light (sandy), Medium",Full sun,Moist,4.0,8.0
+Allium cernuum,Allium cernuum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,5.0,9.0
+Allium chinense,Allium chinense,"Light (sandy), Medium",Full sun,Moist,6.0,9.0
+Allium carinatum,Allium carinatum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,6.0,9.0
+Allium carolinianum,Allium carolinianum,"Light (sandy), Medium",Full sun,"Dry, Moist",,
+Allium condensatum,Allium condensatum,"Light (sandy), Medium",Full sun,Moist,4.0,8.0
+Indian Bowstring Hemp,Sansevieria roxburghiana,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist",10.0,12.0
+African Bowstring Hemp,Sansevieria hyacinthoides,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist",10.0,12.0
+Aegopodium alpestre,Aegopodium alpestre,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade",Moist,,
+Aleurites moluccanus,Aleurites moluccanus,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",10.0,12.0
+Vernicia fordii,Vernicia fordii,"Light (sandy), Medium, Heavy (clay)",Partial sun/shade,"Dry, Moist",8.0,11.0
+Vernicia montana,Vernicia montana,"Light (sandy), Medium",Full sun,"Dry, Moist",10.0,12.0
+Aleurites fordii,Aleurites fordii,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,8.0,10.0
+Alcea rosea,Alcea rosea,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",5.0,9.0
+Dyera costulata,Dyera costulata,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Alstroemeria pelegrina,Alstroemeria pelegrina,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist",8.0,11.0
+Alstroemeria ligtu,Alstroemeria ligtu,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist",8.0,10.0
+Alstroemeria haemantha,Alstroemeria haemantha,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,8.0,11.0
+Alstroemeria versicolor,Alstroemeria versicolor,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,8.0,11.0
+Alstroemeria revoluta,Alstroemeria revoluta,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,,
+Alstroemeria spectabilis,Alstroemeria spectabilis,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,,
+Amaranthus caudatus,Amaranthus caudatus,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",4.0,8.0
+Amaranthus cruentus,Amaranthus cruentus,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",3.0,11.0
+Amaranthus dubius,Amaranthus dubius,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Amaranthus graecizans,Amaranthus graecizans,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Amaranthus campestris,Amaranthus campestris,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Amaranthus diacanthus,Amaranthus diacanthus,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Amaranthus frumentaceus,Amaranthus frumentaceus,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Althaea cannabina,Althaea cannabina,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",4.0,8.0
+Alternanthera sissoo,Alternanthera sissoo,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade",Moist,10.0,12.0
+Aquilaria crassna,Aquilaria crassna,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Panax trifolius,Panax trifolius,"Light (sandy), Medium, Heavy (clay)","Partial sun/shade, Full shade",Moist,3.0,7.0
+Aquilegia brevistyla,Aquilegia brevistyla,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,,
+Tetrapanax papyrifer,Tetrapanax papyrifer,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,8.0,11.0
+Aquilegia buergeriana,Aquilegia buergeriana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,6.0,9.0
+Polyscias fruticosa,Polyscias fruticosa,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,10.0,12.0
+Stylosanthes biflora,Stylosanthes biflora,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",4.0,8.0
+Stilbocarpa polaris,Stilbocarpa polaris,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Turritis glabra,Turritis glabra,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade",Moist,6.0,9.0
+Allium fistulosum,Allium fistulosum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,5.0,9.0
+Allium giganteum,Allium giganteum,"Light (sandy), Medium",Full sun,"Dry, Moist",6.0,10.0
+Allium flavum,Allium flavum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,7.0
+Allium geyeri,Allium geyeri,"Light (sandy), Medium",Full sun,Moist,6.0,9.0
+Allium drummondii,Allium drummondii,"Light (sandy), Medium",Full sun,Moist,6.0,9.0
+Allium cupanii,Allium cupanii,"Light (sandy), Medium",Full sun,"Dry, Moist",7.0,10.0
+Allium geyeri tenerum,Allium geyeri tenerum,"Light (sandy), Medium",Full sun,Moist,3.0,7.0
+Allium dregeanum,Allium dregeanum,"Light (sandy), Medium",Full sun,"Dry, Moist",,
+Allium douglasii,Allium douglasii,"Light (sandy), Medium",Full sun,"Dry, Moist",,
+Allium galanthum,Allium galanthum,"Light (sandy), Medium",Full sun,Moist,,
+Allium porrum,Allium porrum,"Light (sandy), Medium",Full sun,Moist,5.0,9.0
+Allanblackia stuhlmannii,Allanblackia stuhlmannii,"Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Allanblackia floribunda,Allanblackia floribunda,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,10.0,12.0
+Allanblackia parviflora,Allanblackia parviflora,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,10.0,12.0
+Alliaria petiolata,Alliaria petiolata,"Light (sandy), Medium, Heavy (clay)","Partial sun/shade, Full shade","Moist, Wet",6.0,8.0
+Allium aflatunense,Allium aflatunense,"Light (sandy), Medium",Full sun,Moist,4.0,8.0
+Allium platycaule,Allium platycaule,"Light (sandy), Medium",Full sun,"Dry, Moist",5.0,9.0
+Allium przewalskianum,Allium przewalskianum,Light (sandy),Full sun,"Dry, Moist",7.0,10.0
+Allium acuminatum,Allium acuminatum,"Light (sandy), Medium",Full sun,"Dry, Moist",5.0,9.0
+Cruciata laevipes,Cruciata laevipes,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",,
+Lilac Daphne,Daphne genkwa,"Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Daphne gnidium,Daphne gnidium,"Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",7.0,10.0
+Daphne bholua,Daphne bholua,"Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade","Dry, Moist",7.0,10.0
+Daniellia oliveri,Daniellia oliveri,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Daphne laureola,Daphne laureola,"Medium, Heavy (clay)","Partial sun/shade, Full shade","Dry, Moist",6.0,9.0
+Daphne involucrata,Daphne involucrata,"Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Dalea purpurea,Dalea purpurea,"Light (sandy), Medium",Full sun,"Dry, Moist",,
+Dalea gattingeri,Dalea gattingeri,"Light (sandy), Medium",Full sun,"Dry, Moist",,
+Damasonium alisma,Damasonium alisma,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Wet, Water",6.0,9.0
+Daucus carota,Daucus carota,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,4.0,8.0
+Datura stramonium,Datura stramonium,"Light (sandy), Medium",Full sun,"Dry, Moist",6.0,9.0
+Datura inoxia,Datura inoxia,"Light (sandy), Medium",Full sun,"Dry, Moist",8.0,11.0
+Datura metel,Datura metel,"Light (sandy), Medium",Full sun,"Dry, Moist",8.0,11.0
+Dasylirion wheeleri,Dasylirion wheeleri,"Light (sandy), Medium",Full sun,"Dry, Moist",7.0,10.0
+Datisca cannabina,Datisca cannabina,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,7.0,10.0
+Datura quercifolia,Datura quercifolia,"Light (sandy), Medium",Full sun,"Dry, Moist",7.0,10.0
+Dasylirion texanum,Dasylirion texanum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,8.0,11.0
+Crataegus punctata,Crataegus punctata,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",4.0,8.0
+Blue hawthorn,Crataegus schraderana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",5.0,9.0
+Crataegus songorica,Crataegus songorica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",,
+Cucumis melo,Cucumis melo,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,9.0,11.0
+Cucumis melo agrestis,Cucumis melo agrestis,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,9.0,11.0
+Cucumis anguria,Cucumis anguria,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,9.0,11.0
+Cucumis melo conomon,Cucumis melo conomon,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,9.0,11.0
+Cucumis melo cantalupensis,Cucumis melo cantalupensis,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,4.0,10.0
+Cucumis melo chito,Cucumis melo chito,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,9.0,11.0
+Cucubalus baccifer,Cucubalus baccifer,"Light (sandy), Medium, Heavy (clay)",Partial sun/shade,Moist,6.0,9.0
+Cucurbita foetidissima,Cucurbita foetidissima,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",9.0,11.0
+Cucurbita ficifolia,Cucurbita ficifolia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",9.0,11.0
+Cucurbita argyrosperma,Cucurbita argyrosperma,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,2.0,11.0
+Cucurbita digitata,Cucurbita digitata,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",10.0,12.0
+Cucumis melo momordica,Cucumis melo momordica,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,9.0,11.0
+Cucumis melo flexuosus,Cucumis melo flexuosus,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,9.0,11.0
+Cucumis melo inodorus,Cucumis melo inodorus,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,9.0,11.0
+Cucumis metuliferus,Cucumis metuliferus,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,9.0,11.0
+Cupressus lusitanica,Cupressus lusitanica,"Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,9.0,12.0
+Crataegus stipulosa,Crataegus stipulosa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",,
+Crataegus species,Crataegus species,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",,
+Cupressus sempervirens,Cupressus sempervirens,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",7.0,11.0
+Cupressocyparis leylandii,Cupressocyparis leylandii,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,6.0,10.0
+Cupressus arizonica,Cupressus arizonica,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",6.0,9.0
+Cupressus macrocarpa,Cupressus macrocarpa,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",7.0,10.0
+Cupressus torulosa,Cupressus torulosa,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",7.0,10.0
+Curculigo orchioides,Curculigo orchioides,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,10.0,12.0
+Sorbus torminalis,Sorbus torminalis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Populus maximowiczii,Populus maximowiczii,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,4.0,8.0
+Populus sieboldii,Populus sieboldii,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,4.0,8.0
+Populus trichocarpa,Populus trichocarpa,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,4.0,8.0
+Populus tremuloides,Populus tremuloides,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",2.0,5.0
+Populus x jackii,Populus x jackii,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Polymnia edulis,Polymnia edulis,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,7.0,10.0
+Citrus limon,Citrus limon,"Medium, Heavy (clay)",Full sun,Moist,8.0,11.0
+Citrus aurantium,Citrus aurantium,"Medium, Heavy (clay)",Full sun,Moist,8.0,11.0
+Citrus reticulata,Citrus reticulata,"Medium, Heavy (clay)",Full sun,Moist,9.0,11.0
+Cistus ladanifer,Cistus ladanifer,"Light (sandy), Medium",Full sun,"Dry, Moist",6.0,9.0
+Citrus aurantiifolia,Citrus aurantiifolia,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Citrus x meyeri,Citrus x meyeri,"Medium, Heavy (clay)",Full sun,Moist,8.0,11.0
+Citrus sinensis,Citrus sinensis,"Medium, Heavy (clay)",Full sun,Moist,9.0,11.0
+Citrullus colocynthis,Citrullus colocynthis,"Light (sandy), Medium",Full sun,"Dry, Moist",10.0,12.0
+Citrullus lanatus,Citrullus lanatus,"Light (sandy), Medium",Full sun,"Dry, Moist",8.0,11.0
+Citrus ichangensis,Citrus ichangensis,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,7.0,10.0
+Cirsium japonicum,Cirsium japonicum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,5.0,9.0
+Cirsium hookerianum,Cirsium hookerianum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Cirsium occidentale,Cirsium occidentale,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",8.0,11.0
+Cirsium kamtschaticum,Cirsium kamtschaticum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Cirsium nipponicum,Cirsium nipponicum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Cirsium maritimum,Cirsium maritimum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Cirsium maackii,Cirsium maackii,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Cirsium lineare,Cirsium lineare,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Cirsium lepskyle,Cirsium lepskyle,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Viola biflora,Viola biflora,"Light (sandy), Medium, Heavy (clay)",Partial sun/shade,Moist,,
+Chondrilla,Chondrilla ambigua,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",4.0,9.0
+Chondrilla juncea,Chondrilla juncea,"Light (sandy), Medium",Full sun,"Dry, Moist",,
+Grey sedge,Lepironia articulata,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, wet, Water",10.0,12.0
+Saw Grass,Cladium mariscus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",3.0,7.0
+Chorispora tenella,Chorispora tenella,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",7.0,10.0
+Chondrilla chondrilloides,Chondrilla chondrilloides,"Light (sandy), Medium",Full sun,"Dry, Moist",,
+Chorispora sabulosa,Chorispora sabulosa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",,
+Coprosma robusta,Coprosma robusta,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,8.0,11.0
+Coprosma virescens,Coprosma virescens,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,7.0,10.0
+Coptis chinensis,Coptis chinensis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",5.0,9.0
+Coprosma rugosa,Coprosma rugosa,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,6.0,9.0
+Coprosma serrulata,Coprosma serrulata,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,7.0,10.0
+Coprosma rhamnoides,Coprosma rhamnoides,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,7.0,10.0
+Coprosma rotundifolia,Coprosma rotundifolia,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,8.0,11.0
+Coptis deltoidea,Coptis deltoidea,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet",,
+Coptis brachypetala,Coptis brachypetala,"Light (sandy), Medium",Partial sun/shade,Moist,,
+Polygonatum multiflorum,Polygonatum multiflorum,"Light (sandy), Medium, Heavy (clay)","Partial sun/shade, Full shade","Dry, Moist",4.0,8.0
+Conyza canadensis,Conyza canadensis,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist",6.0,9.0
+Ipomoea pandurata,Ipomoea pandurata,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,6.0,9.0
+Coreopsis auriculata,Coreopsis auriculata,"Light (sandy), Medium",Full sun,"Dry, Moist",4.0,8.0
+Philadelphus x virginalis,Philadelphus x virginalis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,8.0
+Phlox divaricata,Phlox divaricata,"Light (sandy), Medium","Full sun, Partial sun/shade, Full shade",Moist,4.0,9.0
+Phlox paniculata,Phlox paniculata,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,9.0
+Phlox subulata,Phlox subulata,"Light (sandy), Medium",Full sun,"Dry, Moist",4.0,9.0
+Phillyrea latifolia,Phillyrea latifolia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",6.0,9.0
+Phlomis tuberosa,Phlomis tuberosa,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",5.0,9.0
+Phlomis umbrosa,Phlomis umbrosa,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",6.0,9.0
+Phlomis samia,Phlomis samia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",6.0,9.0
+Phlox nivalis,Phlox nivalis,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist",6.0,9.0
+Phleum pratense,Phleum pratense,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Phlomis fruticosa,Phlomis fruticosa,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",4.0,7.0
+Phyllospadix scouleri,Phyllospadix scouleri,"Light (sandy), Medium, Heavy (clay)",Full sun,"Wet, Water",,
+Phyllocladus trichomanoides,Phyllocladus trichomanoides,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,8.0,11.0
+Phlomis russeliana,Phlomis russeliana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",5.0,9.0
+Phlomis lychnitis,Phlomis lychnitis,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",7.0,10.0
+Phyllocladus aspleniifolius,Phyllocladus aspleniifolius,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,8.0,11.0
+Phyllocladus alpinus,Phyllocladus alpinus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,7.0,10.0
+Tabernaemontana hystrix,Tabernaemontana hystrix,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Phyllostachys nigra henonis,Phyllostachys nigra henonis,"Light (sandy), Medium, Heavy (clay)",Partial sun/shade,Moist,6.0,9.0
+Phyllostachys nuda,Phyllostachys nuda,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,7.0,10.0
+Phyllostachys nigra punctata,Phyllostachys nigra punctata,"Light (sandy), Medium, Heavy (clay)",Partial sun/shade,Moist,6.0,9.0
+Phyllostachys glauca,Phyllostachys glauca,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade",Moist,,
+Phyllostachys nidularia,Phyllostachys nidularia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,6.0,9.0
+Phyllostachys makinoi,Phyllostachys makinoi,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,7.0,10.0
+Phyllostachys meyeri,Phyllostachys meyeri,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,7.0,10.0
+Phyllostachys parvifolia,Phyllostachys parvifolia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Phyllostachys iridescens,Phyllostachys iridescens,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade",Moist,,
+Paeonia suffruticosa,Paeonia suffruticosa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,8.0
+Paeonia veitchii,Paeonia veitchii,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,7.0,10.0
+Paeonia szechuanica,Paeonia szechuanica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,6.0,9.0
+Oxalis violacea,Oxalis violacea,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",4.0,8.0
+Vaccinium erythrocarpum,Vaccinium erythrocarpum,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,5.0,9.0
+Paeonia hybrida,Paeonia hybrida,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Oxyria digyna,Oxyria digyna,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,2.0,8.0
+Oxydendrum arboreum,Oxydendrum arboreum,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,5.0,8.0
+Oxytropis lambertii,Oxytropis lambertii,"Light (sandy), Medium",Full sun,"Dry, Moist",3.0,7.0
+Oxandra laurifolia,Oxandra laurifolia,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Prunus padus,Prunus padus,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,3.0,6.0
+Vaccinium macrocarpon,Vaccinium macrocarpon,"Light (sandy), Medium","Full sun, Partial sun/shade","Moist, Wet",,
+Vaccinium oxycoccos,Vaccinium oxycoccos,"Light (sandy), Medium","Full sun, Partial sun/shade","Moist, Wet",,
+Prunus cornuta,Prunus cornuta,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Pachysandra terminalis,Pachysandra terminalis,"Light (sandy), Medium, Heavy (clay)","Partial sun/shade, Full shade","Dry, Moist",4.0,8.0
+Pachyrhizus tuberosus,Pachyrhizus tuberosus,"Light (sandy), Medium",Full sun,Moist,9.0,11.0
+Baboso,Pachycereus hollianus,"Light (sandy), Medium",Full sun,"Dry, Moist",9.0,11.0
+Pachyphragma macrophylla,Pachyphragma macrophylla,"Light (sandy), Medium, Heavy (clay)","Partial sun/shade, Full shade","Dry, Moist",6.0,9.0
+Roundleaf ragwort,Packera obovata,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade",Moist,3.0,8.0
+Papaver somniferum,Papaver somniferum,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Papaver rhoeas,Papaver rhoeas,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,4.0,8.0
+Papaver nudicaule,Papaver nudicaule,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist",4.0,10.0
+Papaver orientale,Papaver orientale,"Light (sandy), Medium",Full sun,"Dry, Moist",3.0,9.0
+Prickly Poppy,Papaver argemone,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,7.0,10.0
+Picea glauca,Picea glauca,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",2.0,6.0
+Picea mariana,Picea mariana,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",3.0,5.0
+Picea abies,Picea abies,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",2.0,7.0
+Picea engelmannii,Picea engelmannii,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",3.0,7.0
+Picea jezoensis,Picea jezoensis,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,,
+Picea asperata,Picea asperata,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",,
+Picea glehnii,Picea glehnii,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",4.0,7.0
+Picea breweriana,Picea breweriana,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,5.0,9.0
+Picea brachytyla,Picea brachytyla,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,7.0,10.0
+Picea sitchensis,Picea sitchensis,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",6.0,7.0
+Picea rubens,Picea rubens,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,6.0,7.0
+Picea smithiana,Picea smithiana,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,6.0,9.0
+Picea pungens,Picea pungens,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",3.0,7.0
+Picea orientalis,Picea orientalis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,7.0
+Picea omorika,Picea omorika,"Light (sandy), Medium, Heavy (clay)",Full sun,"Moist, Wet",4.0,7.0
+Picea purpurea,Picea purpurea,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,4.0,7.0
+Picrasma quassioides,Picrasma quassioides,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Picrasma excelsa,Picrasma excelsa,"Light (sandy), Medium",Full sun,Moist,10.0,12.0
+Phytolacca dodecandra,Phytolacca dodecandra,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade","Dry, Moist",10.0,12.0
+Phytolacca americana,Phytolacca americana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Phytolacca acinosa,Phytolacca acinosa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,7.0,10.0
+Phytolacca esculenta,Phytolacca esculenta,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Phytolacca dioica,Phytolacca dioica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,8.0,11.0
+Hu Huang Lian,Picrorhiza scrophulariiflora,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Kuru,Picrorhiza kurroa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Picris hieracioides,Picris hieracioides,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",5.0,9.0
+Phyteuma spicatum,Phyteuma spicatum,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Withania somnifera,Withania somnifera,"Light (sandy), Medium, Heavy (clay)",Full sun,Moist,10.0,12.0
+Photinia serratifolia,Photinia serratifolia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,6.0,10.0
+Photinia arbutifolia,Photinia arbutifolia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Dry, Moist",8.0,11.0
+Photinia x fraseri,Photinia x fraseri,"Light (sandy), Medium","Full sun, Partial sun/shade","Dry, Moist",7.0,9.0
+Photinia villosa,Photinia villosa,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,4.0,8.0
+Photinia parvifolia,Photinia parvifolia,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Photinia davidiana,Photinia davidiana,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Photinia bodinieri,Photinia bodinieri,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,8.0,11.0
+Photinia arguta,Photinia arguta,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,,
+Phragmites australis,Phragmites australis,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade","Moist, Wet, Water",4.0,10.0
+Mouse-Ear Hawkweed,Pilosella officinarum,"Light (sandy), Medium, Heavy (clay)",Full sun,"Dry, Moist",4.0,8.0
+Polemonium reptans,Polemonium reptans,"Light (sandy), Medium","Full sun, Partial sun/shade",Moist,4.0,8.0
+Bitter Milkwort,Polygala amara,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade",Moist,5.0,9.0
+Pieris japonica,Pieris japonica,"Light (sandy), Medium, Heavy (clay)","Full sun, Partial sun/shade, Full shade",Moist,4.0,7.0
+Pimelea arenaria,Pimelea arenaria,"Light (sandy), Medium",Full sun,"Dry, Moist",8.0,11.0
+Polianthes tuberosa,Polianthes tuberosa,"Light (sandy), Medium",Full sun,Moist,8.0,11.0
