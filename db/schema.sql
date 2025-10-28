@@ -38,12 +38,13 @@ CREATE TABLE plots (
 
 CREATE TABLE crops (
   crop_id			INT NOT NULL AUTO_INCREMENT,
-  crop_name			VARCHAR(100) NOT NULL,
   ideal_soil			VARCHAR(100),
-  days_to_maturity		INT,
   sun_req			VARCHAR(20),
   water_req			VARCHAR(20),
-  season			VARCHAR(20),
+  common_name			VARCHAR(100),
+  scientific_name		VARCHAR(100),
+  usda_zone_min			INT,
+  usda_zone_max			INT,
   PRIMARY KEY (crop_id)
 );
 
