@@ -43,3 +43,173 @@ SET
   water_req       = NULLIF(TRIM(@water_req), ''),
   usda_zone_min   = CAST(NULLIF(TRIM(@usda_zone_min), '') AS SIGNED),
   usda_zone_max   = CAST(NULLIF(TRIM(@usda_zone_max), '') AS SIGNED);
+
+LOAD DATA LOCAL INFILE 'data/az_weather_data.csv'
+INTO TABLE weather_observations
+CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ','
+OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES
+(@location_id, @observed_on, @tmin_c, @tmax_c, @precip_mm, @humidity_pct, @frost_flag, @source)
+SET location_id = @location_id,
+    observed_on = STR_TO_DATE(@observed_on, '%Y-%m-%d'),
+    tmin_c = TRIM(@tmin_c),
+    tmax_c = TRIM(@tmax_c),
+    precip_mm = IF(@precip_mm = '', NULL, TRIM(@precip_mm)),
+    humidity_pct = IF(@humidity_pct = '', NULL, TRIM(@humidity_pct)),
+    frost_flag = CASE WHEN TRIM(@frost_flag) = 'Y' THEN TRUE ELSE FALSE END,
+    source = TRIM(@source);
+
+LOAD DATA LOCAL INFILE 'data/chi_weather_data.csv'
+INTO TABLE weather_observations
+CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ','
+OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES
+(@location_id, @observed_on, @tmin_c, @tmax_c, @precip_mm, @humidity_pct, @frost_flag, @source)
+SET location_id = @location_id,
+    observed_on = STR_TO_DATE(@observed_on, '%Y-%m-%d'),
+    tmin_c = TRIM(@tmin_c),
+    tmax_c = TRIM(@tmax_c),
+    precip_mm = IF(@precip_mm = '', NULL, TRIM(@precip_mm)),
+    humidity_pct = IF(@humidity_pct = '', NULL, TRIM(@humidity_pct)),
+    frost_flag = CASE WHEN TRIM(@frost_flag) = 'Y' THEN TRUE ELSE FALSE END,
+    source = TRIM(@source);
+
+LOAD DATA LOCAL INFILE 'data/la_weather_data.csv'
+INTO TABLE weather_observations
+CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ','
+OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES
+(@location_id, @observed_on, @tmin_c, @tmax_c, @precip_mm, @humidity_pct, @frost_flag, @source)
+SET location_id = @location_id,
+    observed_on = STR_TO_DATE(@observed_on, '%Y-%m-%d'),
+    tmin_c = TRIM(@tmin_c),
+    tmax_c = TRIM(@tmax_c),
+    precip_mm = IF(@precip_mm = '', NULL, TRIM(@precip_mm)),
+    humidity_pct = IF(@humidity_pct = '', NULL, TRIM(@humidity_pct)),
+    frost_flag = CASE WHEN TRIM(@frost_flag) = 'Y' THEN TRUE ELSE FALSE END,
+    source = TRIM(@source);
+
+LOAD DATA LOCAL INFILE 'data/nyc_weather_data.csv'
+INTO TABLE weather_observations
+CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ','
+OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES
+(@location_id, @observed_on, @tmin_c, @tmax_c, @precip_mm, @humidity_pct, @frost_flag, @source)
+SET location_id = @location_id,
+    observed_on = STR_TO_DATE(@observed_on, '%Y-%m-%d'),
+    tmin_c = TRIM(@tmin_c),
+    tmax_c = TRIM(@tmax_c),
+    precip_mm = IF(@precip_mm = '', NULL, TRIM(@precip_mm)),
+    humidity_pct = IF(@humidity_pct = '', NULL, TRIM(@humidity_pct)),
+    frost_flag = CASE WHEN TRIM(@frost_flag) = 'Y' THEN TRUE ELSE FALSE END,
+    source = TRIM(@source);
+
+LOAD DATA LOCAL INFILE 'data/philly_weather_data.csv'
+INTO TABLE weather_observations
+CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ','
+OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES
+(@location_id, @observed_on, @tmin_c, @tmax_c, @precip_mm, @humidity_pct, @frost_flag, @source)
+SET location_id = @location_id,
+    observed_on = STR_TO_DATE(@observed_on, '%Y-%m-%d'),
+    tmin_c = TRIM(@tmin_c),
+    tmax_c = TRIM(@tmax_c),
+    precip_mm = IF(@precip_mm = '', NULL, TRIM(@precip_mm)),
+    humidity_pct = IF(@humidity_pct = '', NULL, TRIM(@humidity_pct)),
+    frost_flag = CASE WHEN TRIM(@frost_flag) = 'Y' THEN TRUE ELSE FALSE END,
+    source = TRIM(@source);
+
+LOAD DATA LOCAL INFILE 'data/sd_weather_data.csv'
+INTO TABLE weather_observations
+CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ','
+OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES
+(@location_id, @observed_on, @tmin_c, @tmax_c, @precip_mm, @humidity_pct, @frost_flag, @source)
+SET location_id = @location_id,
+    observed_on = STR_TO_DATE(@observed_on, '%Y-%m-%d'),
+    tmin_c = TRIM(@tmin_c),
+    tmax_c = TRIM(@tmax_c),
+    precip_mm = IF(@precip_mm = '', NULL, TRIM(@precip_mm)),
+    humidity_pct = IF(@humidity_pct = '', NULL, TRIM(@humidity_pct)),
+    frost_flag = CASE WHEN TRIM(@frost_flag) = 'Y' THEN TRUE ELSE FALSE END,
+    source = TRIM(@source);
+
+LOAD DATA LOCAL INFILE 'data/seattle_weather_data.csv'
+INTO TABLE weather_observations
+CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ','
+OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES
+(@location_id, @observed_on, @tmin_c, @tmax_c, @precip_mm, @humidity_pct, @frost_flag, @source)
+SET location_id = @location_id,
+    observed_on = STR_TO_DATE(@observed_on, '%Y-%m-%d'),
+    tmin_c = TRIM(@tmin_c),
+    tmax_c = TRIM(@tmax_c),
+    precip_mm = IF(@precip_mm = '', NULL, TRIM(@precip_mm)),
+    humidity_pct = IF(@humidity_pct = '', NULL, TRIM(@humidity_pct)),
+    frost_flag = CASE WHEN TRIM(@frost_flag) = 'Y' THEN TRUE ELSE FALSE END,
+    source = TRIM(@source);
+
+LOAD DATA LOCAL INFILE 'data/sf_weather_data.csv'
+INTO TABLE weather_observations
+CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ','
+OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES
+(@location_id, @observed_on, @tmin_c, @tmax_c, @precip_mm, @humidity_pct, @frost_flag, @source)
+SET location_id = @location_id,
+    observed_on = STR_TO_DATE(@observed_on, '%Y-%m-%d'),
+    tmin_c = TRIM(@tmin_c),
+    tmax_c = TRIM(@tmax_c),
+    precip_mm = IF(@precip_mm = '', NULL, TRIM(@precip_mm)),
+    humidity_pct = IF(@humidity_pct = '', NULL, TRIM(@humidity_pct)),
+    frost_flag = CASE WHEN TRIM(@frost_flag) = 'Y' THEN TRUE ELSE FALSE END,
+    source = TRIM(@source);
+
+LOAD DATA LOCAL INFILE 'data/tx_weather_data.csv'
+INTO TABLE weather_observations
+CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ','
+OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES
+(@location_id, @observed_on, @tmin_c, @tmax_c, @precip_mm, @humidity_pct, @frost_flag, @source)
+SET location_id = @location_id,
+    observed_on = STR_TO_DATE(@observed_on, '%Y-%m-%d'),
+    tmin_c = TRIM(@tmin_c),
+    tmax_c = TRIM(@tmax_c),
+    precip_mm = IF(@precip_mm = '', NULL, TRIM(@precip_mm)),
+    humidity_pct = IF(@humidity_pct = '', NULL, TRIM(@humidity_pct)),
+    frost_flag = CASE WHEN TRIM(@frost_flag) = 'Y' THEN TRUE ELSE FALSE END,
+    source = TRIM(@source);
+
+LOAD DATA LOCAL INFILE 'data/uiuc_weather_data.csv'
+INTO TABLE weather_observations
+CHARACTER SET utf8mb4
+FIELDS TERMINATED BY ','
+OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES
+(@location_id, @observed_on, @tmin_c, @tmax_c, @precip_mm, @humidity_pct, @frost_flag, @source)
+SET location_id = @location_id,
+    observed_on = STR_TO_DATE(@observed_on, '%Y-%m-%d'),
+    tmin_c = TRIM(@tmin_c),
+    tmax_c = TRIM(@tmax_c),
+    precip_mm = IF(@precip_mm = '', NULL, TRIM(@precip_mm)),
+    humidity_pct = IF(@humidity_pct = '', NULL, TRIM(@humidity_pct)),
+    frost_flag = CASE WHEN TRIM(@frost_flag) = 'Y' THEN TRUE ELSE FALSE END,
+    source = TRIM(@source);
