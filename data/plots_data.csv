@@ -1,0 +1,501 @@
+plot_id,user_id,location_id,plot_name,area_sq_m,soil_type,sunlight_exposure,is_active
+1,4,6,Blueberry Plot 19,713.95,Loamy,Partial Shade,0
+2,6,6,Hydroponic Trial 47,856.96,Gravelly,Partial Shade,0
+3,2,2,Rose Garden 39,594.79,Peaty,Full Sun,1
+4,1,9,South Field 30,882.09,Peaty,Partial Shade,0
+5,2,2,Hydroponic Trial 8,792.51,Artificial,Partial Shade,0
+6,8,8,Bamboo Grove 21,828.98,Artificial,Partial Sun,1
+7,1,3,Community Bed A 2,415.54,Peaty,Partial Shade,1
+8,7,9,Central Plot 40,927.2,Peaty,Full Shade,1
+9,3,3,Experimental Plot 48,556.2,Peaty,Partial Shade,0
+10,5,8,Medicinal Herbs 10,529.15,Sandy,Partial Sun,1
+11,6,2,Rose Garden 5,540.9,Peaty,Partial Sun,1
+12,7,10,Hydroponic Trial 40,476.48,Gravelly,Full Sun,1
+13,3,7,Succulent Bed 32,515.54,Peaty,Full Sun,1
+14,9,8,Shade Grove 8,685.31,Peaty,Full Sun,1
+15,6,4,Vegetable Patch 31,361.6,Sandy,Full Sun,0
+16,8,3,Experiment Zone 5,899.62,Loamy,Partial Shade,0
+17,8,2,Medicinal Herbs 29,20.63,Loamy,Full Sun,1
+18,6,9,Rose Garden 10,914.8,Gravelly,Partial Shade,0
+19,5,4,Shade Grove 31,51.1,Artificial,Partial Shade,0
+20,3,9,Green Roof Bed 45,913.66,Silty,Full Sun,0
+21,4,6,Bamboo Grove 16,903.59,Artificial,Partial Shade,1
+22,2,4,Wildflower Strip 48,309.58,Silty,Full Sun,0
+23,7,3,Test Strip 39,636.23,Silty,Partial Sun,1
+24,9,8,Front Lawn 20,852.36,Loamy,Full Shade,0
+25,1,10,Front Lawn 10,599.98,Gravelly,Partial Sun,1
+26,10,9,Test Strip 5,12.13,Gravelly,Full Shade,1
+27,1,6,East Field 24,25.95,Clay,Partial Sun,1
+28,10,4,Test Strip 34,972.81,Artificial,Full Sun,0
+29,7,1,East Field 31,146.2,Gravelly,Full Sun,0
+30,5,6,Herb Spiral 7,836.46,Artificial,Partial Shade,1
+31,8,1,Shade Grove 12,831.5,Loamy,Full Sun,0
+32,9,5,Test Strip 38,764.86,Sandy,Full Shade,0
+33,6,8,Community Bed A 12,439.54,Sandy,Partial Sun,1
+34,3,2,Experiment Zone 28,313.11,Clay,Partial Sun,1
+35,6,5,Fungi Patch 25,394.14,Gravelly,Full Sun,0
+36,1,9,Compost Test Plot 49,42.4,Artificial,Full Shade,0
+37,3,3,Hydroponic Trial 12,609.79,Gravelly,Partial Sun,1
+38,8,4,Wildflower Strip 33,795.01,Sandy,Full Shade,0
+39,10,9,Fungi Patch 13,963.68,Peaty,Full Shade,0
+40,6,7,Medicinal Herbs 8,30.69,Loamy,Full Sun,0
+41,3,9,Compost Test Plot 48,971.92,Artificial,Full Sun,1
+42,10,3,Front Lawn 46,524.14,Silty,Partial Shade,0
+43,4,4,Test Strip 38,557.72,Artificial,Full Sun,0
+44,1,2,Tulip Rows 10,710.54,Peaty,Partial Shade,1
+45,7,5,Central Plot 47,347.27,Peaty,Partial Shade,1
+46,6,5,South Field 16,164.4,Sandy,Partial Shade,1
+47,10,10,Vegetable Patch 27,154.73,Clay,Partial Sun,0
+48,3,9,Vegetable Patch 10,976.83,Gravelly,Partial Shade,1
+49,5,6,East Field 19,655.04,Clay,Full Sun,1
+50,7,5,Tulip Rows 28,763.3,Loamy,Partial Shade,1
+51,6,3,Cactus Corner 49,730.52,Gravelly,Full Sun,1
+52,4,9,Bamboo Grove 8,83.32,Artificial,Partial Sun,1
+53,7,10,Tree Nursery 3,716.41,Peaty,Partial Sun,1
+54,4,8,Experiment Zone 21,870.79,Peaty,Partial Sun,0
+55,5,4,South Field 8,348.15,Artificial,Full Shade,1
+56,9,2,Experiment Zone 50,268.42,Gravelly,Partial Shade,0
+57,5,6,Experiment Zone 6,412.29,Peaty,Full Shade,1
+58,10,8,Bamboo Grove 33,273.12,Gravelly,Full Sun,0
+59,2,6,Tulip Rows 38,257.51,Clay,Partial Shade,1
+60,2,2,Experiment Zone 30,999.32,Loamy,Full Sun,0
+61,10,8,Hydroponic Trial 44,287.0,Clay,Full Shade,0
+62,7,1,Medicinal Herbs 30,800.71,Sandy,Full Shade,0
+63,10,4,Wildflower Strip 45,32.38,Clay,Partial Shade,1
+64,5,3,Green Roof Bed 42,883.78,Sandy,Partial Shade,1
+65,6,5,Tulip Rows 39,698.88,Peaty,Full Sun,0
+66,9,9,Experimental Plot 30,885.65,Sandy,Full Shade,0
+67,3,6,Hydroponic Trial 14,305.57,Loamy,Full Sun,0
+68,1,3,Blueberry Plot 28,461.05,Clay,Partial Shade,1
+69,7,9,South Field 8,768.43,Sandy,Full Shade,0
+70,7,10,North Orchard 26,639.7,Silty,Partial Sun,1
+71,2,8,East Field 14,272.04,Silty,Full Shade,0
+72,7,7,Compost Test Plot 46,536.24,Clay,Full Shade,1
+73,3,1,Community Bed A 47,722.67,Artificial,Partial Sun,0
+74,8,2,Vegetable Patch 39,789.05,Clay,Full Shade,1
+75,9,10,Green Roof Bed 33,242.38,Peaty,Full Shade,0
+76,5,5,North Orchard 49,153.94,Gravelly,Partial Shade,0
+77,7,7,Vegetable Patch 7,71.64,Sandy,Partial Shade,0
+78,7,9,Bamboo Grove 44,903.74,Loamy,Full Shade,1
+79,9,7,Cactus Corner 2,283.39,Silty,Full Shade,0
+80,2,1,Test Strip 2,797.18,Sandy,Partial Shade,1
+81,5,1,Grass Restoration 28,938.84,Silty,Full Shade,0
+82,8,7,Shade Grove 3,133.17,Silty,Full Shade,0
+83,2,5,Fungi Patch 44,993.18,Clay,Partial Shade,1
+84,4,4,Community Bed B 11,375.05,Clay,Full Shade,0
+85,1,7,Medicinal Herbs 37,473.06,Gravelly,Partial Sun,0
+86,10,2,Compost Test Plot 17,778.84,Loamy,Partial Shade,0
+87,7,9,Green Roof Bed 19,263.79,Sandy,Partial Sun,0
+88,5,6,Wildflower Strip 20,641.0,Loamy,Partial Sun,1
+89,3,2,Experimental Plot 36,409.19,Clay,Partial Shade,0
+90,2,2,Tulip Rows 27,281.05,Peaty,Partial Sun,0
+91,4,6,West Orchard 28,610.43,Artificial,Full Shade,0
+92,9,7,Cactus Corner 15,198.19,Silty,Full Sun,1
+93,8,2,Cactus Corner 1,26.86,Clay,Full Sun,0
+94,1,3,Rain Garden 23,629.61,Gravelly,Partial Shade,0
+95,1,7,Tree Nursery 5,704.96,Peaty,Full Sun,0
+96,5,5,East Field 28,771.51,Loamy,Full Shade,0
+97,4,6,Grass Restoration 47,172.15,Silty,Partial Shade,1
+98,4,6,Rose Garden 34,329.47,Loamy,Partial Shade,1
+99,5,8,Tree Nursery 45,438.37,Silty,Partial Sun,0
+100,6,7,Medicinal Herbs 37,405.78,Loamy,Full Shade,0
+101,7,8,Vegetable Patch 44,199.96,Clay,Full Shade,0
+102,9,3,Tree Nursery 22,371.27,Artificial,Full Sun,1
+103,3,6,Rain Garden 12,677.48,Clay,Partial Sun,0
+104,8,1,Cactus Corner 7,359.98,Peaty,Full Sun,1
+105,7,4,Experiment Zone 11,159.53,Clay,Partial Shade,0
+106,3,6,East Field 28,777.93,Silty,Partial Shade,0
+107,6,7,North Orchard 5,249.84,Clay,Partial Shade,1
+108,3,4,Grass Restoration 39,437.76,Artificial,Partial Shade,1
+109,4,8,Cactus Corner 32,153.84,Silty,Partial Sun,0
+110,9,3,Rain Garden 10,935.13,Sandy,Partial Sun,1
+111,8,8,Blueberry Plot 33,891.18,Silty,Partial Sun,1
+112,4,8,Tree Nursery 45,57.72,Loamy,Full Sun,1
+113,9,4,Blueberry Plot 36,448.86,Sandy,Full Shade,1
+114,8,8,South Field 20,313.6,Peaty,Partial Sun,1
+115,3,4,Flower Research 36,817.23,Peaty,Full Shade,0
+116,6,9,Fungi Patch 41,167.54,Sandy,Partial Sun,0
+117,9,3,Experimental Plot 20,591.39,Gravelly,Partial Sun,0
+118,1,7,Experimental Plot 19,513.94,Silty,Full Sun,1
+119,4,1,Tree Nursery 16,376.84,Gravelly,Full Shade,1
+120,4,2,Rose Garden 12,65.01,Loamy,Full Shade,0
+121,9,5,North Orchard 17,922.94,Gravelly,Partial Sun,0
+122,4,5,Herb Spiral 50,382.94,Loamy,Full Shade,0
+123,5,2,Tulip Rows 6,195.31,Sandy,Full Sun,1
+124,3,5,Test Strip 17,402.35,Loamy,Partial Sun,1
+125,5,5,Wildflower Strip 42,871.65,Clay,Partial Sun,0
+126,6,7,Vegetable Patch 10,601.6,Gravelly,Full Shade,1
+127,10,4,Community Bed A 9,551.04,Clay,Full Sun,1
+128,1,5,North Orchard 25,906.42,Peaty,Partial Sun,1
+129,4,6,West Orchard 42,800.7,Artificial,Partial Shade,0
+130,9,7,Succulent Bed 30,449.68,Artificial,Full Sun,1
+131,4,3,Green Roof Bed 12,164.55,Sandy,Full Sun,0
+132,6,2,Cactus Corner 2,671.1,Loamy,Partial Sun,0
+133,9,1,Shade Grove 18,32.82,Silty,Partial Sun,0
+134,3,7,Front Lawn 41,513.45,Artificial,Full Sun,0
+135,9,8,Rain Garden 2,587.18,Silty,Partial Shade,0
+136,1,10,Community Bed B 45,783.98,Gravelly,Full Shade,1
+137,2,7,Herb Spiral 35,999.98,Gravelly,Full Shade,0
+138,9,2,Fungi Patch 40,637.3,Silty,Partial Shade,0
+139,8,7,Rose Garden 28,849.59,Clay,Full Shade,0
+140,5,9,Rain Garden 6,346.57,Silty,Full Shade,1
+141,7,1,Green Roof Bed 45,336.02,Gravelly,Full Sun,1
+142,6,6,Community Bed B 12,56.42,Silty,Partial Shade,1
+143,1,7,Blueberry Plot 25,302.83,Gravelly,Partial Sun,1
+144,4,7,East Field 34,165.37,Gravelly,Partial Sun,1
+145,4,9,Rose Garden 6,137.31,Peaty,Full Shade,0
+146,9,6,Experiment Zone 1,153.81,Gravelly,Partial Shade,0
+147,3,8,Community Bed B 33,337.51,Peaty,Full Sun,1
+148,1,10,Shade Grove 23,59.54,Artificial,Full Sun,0
+149,8,2,Rose Garden 7,978.89,Loamy,Full Sun,0
+150,1,5,South Field 46,983.32,Artificial,Partial Sun,1
+151,7,8,Experimental Plot 25,391.55,Clay,Full Shade,0
+152,3,8,Rain Garden 26,479.98,Artificial,Full Sun,1
+153,4,7,Rain Garden 28,699.86,Peaty,Partial Shade,0
+154,7,6,Compost Test Plot 43,894.36,Sandy,Partial Shade,1
+155,2,2,East Field 30,890.61,Clay,Full Shade,1
+156,4,10,Green Roof Bed 49,318.48,Peaty,Partial Sun,1
+157,7,6,Compost Test Plot 36,372.21,Silty,Partial Shade,1
+158,2,5,Front Lawn 41,543.38,Sandy,Partial Shade,1
+159,5,2,Flower Research 42,340.82,Peaty,Full Sun,1
+160,7,2,South Field 17,858.89,Loamy,Full Sun,1
+161,7,3,Wildflower Strip 37,237.28,Loamy,Full Sun,0
+162,2,5,Compost Test Plot 42,52.66,Silty,Partial Sun,1
+163,2,4,Vegetable Patch 36,829.09,Clay,Full Shade,0
+164,8,4,Tulip Rows 4,24.57,Silty,Partial Sun,1
+165,7,7,Green Roof Bed 25,758.64,Silty,Full Sun,1
+166,9,8,Shade Grove 11,263.03,Artificial,Full Shade,1
+167,2,4,Bamboo Grove 44,195.99,Silty,Full Sun,0
+168,9,10,Community Bed B 31,837.57,Silty,Partial Sun,0
+169,9,5,Succulent Bed 16,841.74,Loamy,Partial Shade,0
+170,8,6,Medicinal Herbs 14,614.2,Gravelly,Partial Shade,0
+171,8,4,Medicinal Herbs 22,69.57,Loamy,Full Sun,1
+172,4,2,Cactus Corner 20,831.41,Clay,Partial Sun,1
+173,3,9,Succulent Bed 18,43.93,Sandy,Full Sun,0
+174,4,9,Rain Garden 40,254.28,Silty,Full Sun,0
+175,2,2,Wildflower Strip 23,729.38,Artificial,Full Sun,1
+176,6,3,Central Plot 28,938.25,Sandy,Partial Sun,1
+177,10,7,Cactus Corner 43,820.44,Artificial,Full Sun,1
+178,3,2,Grass Restoration 25,26.35,Clay,Full Sun,0
+179,9,3,North Orchard 11,455.42,Artificial,Partial Sun,1
+180,9,1,North Orchard 45,715.5,Peaty,Full Shade,1
+181,6,3,Green Roof Bed 13,589.4,Gravelly,Partial Sun,0
+182,5,9,Green Roof Bed 8,856.26,Loamy,Full Shade,0
+183,3,10,Herb Spiral 12,787.27,Silty,Partial Sun,0
+184,9,9,Succulent Bed 44,451.0,Peaty,Full Sun,1
+185,2,3,Grass Restoration 29,527.25,Sandy,Partial Sun,0
+186,4,2,Experiment Zone 11,632.91,Sandy,Partial Sun,1
+187,3,1,Blueberry Plot 48,558.79,Loamy,Partial Shade,0
+188,7,5,Front Lawn 35,687.52,Silty,Full Sun,0
+189,8,5,Front Lawn 7,80.42,Clay,Full Shade,1
+190,3,1,East Field 34,28.19,Peaty,Partial Shade,0
+191,8,8,Medicinal Herbs 40,667.59,Sandy,Partial Sun,0
+192,4,9,Green Roof Bed 22,269.46,Silty,Full Shade,1
+193,7,2,Front Lawn 42,865.96,Artificial,Full Sun,0
+194,10,8,Flower Research 46,218.95,Artificial,Partial Shade,0
+195,7,8,Green Roof Bed 21,447.63,Clay,Partial Shade,1
+196,8,10,Flower Research 43,864.08,Sandy,Partial Sun,0
+197,3,8,Succulent Bed 50,156.22,Silty,Full Sun,0
+198,10,9,Blueberry Plot 49,539.55,Gravelly,Full Shade,0
+199,2,10,Tulip Rows 45,502.14,Artificial,Partial Shade,0
+200,8,1,East Field 5,709.53,Gravelly,Full Sun,1
+201,10,4,Test Strip 39,181.54,Clay,Partial Sun,0
+202,2,4,Wildflower Strip 39,706.92,Peaty,Full Shade,1
+203,5,6,Community Bed A 28,246.39,Artificial,Partial Sun,1
+204,1,5,Experiment Zone 27,661.77,Clay,Full Sun,1
+205,5,3,Compost Test Plot 31,644.4,Sandy,Partial Sun,0
+206,7,8,Blueberry Plot 28,759.36,Artificial,Partial Shade,0
+207,6,2,Front Lawn 49,380.43,Peaty,Full Shade,1
+208,4,9,South Field 16,53.58,Silty,Full Sun,0
+209,2,6,Blueberry Plot 18,223.72,Sandy,Partial Shade,1
+210,3,5,Fungi Patch 13,810.87,Peaty,Full Sun,0
+211,2,6,Blueberry Plot 8,358.23,Loamy,Full Shade,0
+212,4,2,Grass Restoration 15,559.07,Loamy,Full Shade,1
+213,1,1,Grass Restoration 23,191.46,Sandy,Partial Sun,1
+214,3,4,Experiment Zone 23,567.4,Gravelly,Partial Sun,1
+215,10,6,Central Plot 14,70.9,Artificial,Full Shade,1
+216,3,7,Medicinal Herbs 17,117.4,Clay,Full Sun,0
+217,6,3,West Orchard 7,504.24,Artificial,Partial Sun,0
+218,5,7,Succulent Bed 28,375.98,Gravelly,Full Sun,1
+219,6,4,Experiment Zone 18,823.08,Gravelly,Partial Sun,0
+220,5,9,Wildflower Strip 35,21.21,Gravelly,Full Sun,0
+221,2,3,Green Roof Bed 23,769.78,Sandy,Partial Sun,0
+222,7,8,Rain Garden 38,435.04,Artificial,Partial Shade,0
+223,2,7,Compost Test Plot 49,468.84,Gravelly,Full Shade,1
+224,5,3,Green Roof Bed 13,929.36,Loamy,Full Shade,0
+225,8,8,Community Bed A 36,918.88,Peaty,Partial Sun,0
+226,4,7,North Orchard 28,504.29,Loamy,Partial Sun,1
+227,2,7,West Orchard 28,858.63,Loamy,Partial Sun,1
+228,3,1,Front Lawn 36,203.46,Artificial,Full Shade,1
+229,3,6,Tree Nursery 41,140.81,Peaty,Partial Shade,1
+230,2,1,Succulent Bed 18,733.47,Silty,Partial Sun,0
+231,8,7,East Field 30,20.75,Gravelly,Full Shade,1
+232,4,6,East Field 14,823.84,Clay,Full Sun,0
+233,9,7,Hydroponic Trial 40,388.64,Peaty,Partial Shade,1
+234,2,9,Community Bed A 32,575.69,Clay,Partial Shade,0
+235,7,4,Green Roof Bed 3,644.51,Gravelly,Partial Sun,0
+236,1,4,South Field 31,990.27,Peaty,Partial Shade,1
+237,3,1,Compost Test Plot 23,66.05,Artificial,Full Shade,1
+238,7,3,Flower Research 48,912.74,Silty,Partial Shade,0
+239,10,6,Herb Spiral 1,735.63,Loamy,Full Sun,0
+240,4,6,Front Lawn 10,585.34,Silty,Full Shade,1
+241,5,9,Test Strip 45,338.22,Peaty,Full Shade,0
+242,3,4,Fungi Patch 9,559.59,Sandy,Partial Sun,0
+243,5,6,North Orchard 41,747.68,Artificial,Partial Sun,1
+244,9,6,Herb Spiral 24,731.02,Silty,Full Shade,0
+245,8,6,Cactus Corner 2,639.9,Silty,Partial Shade,0
+246,2,10,Wildflower Strip 8,690.1,Artificial,Full Shade,1
+247,3,2,Medicinal Herbs 43,920.01,Peaty,Partial Shade,1
+248,2,5,Blueberry Plot 35,85.6,Silty,Partial Shade,0
+249,10,3,Vegetable Patch 39,622.87,Loamy,Full Sun,1
+250,10,6,Test Strip 18,163.56,Silty,Partial Sun,0
+251,7,5,West Orchard 3,711.57,Loamy,Full Sun,0
+252,6,2,North Orchard 20,364.99,Peaty,Partial Sun,0
+253,4,8,Medicinal Herbs 33,602.62,Gravelly,Partial Sun,1
+254,2,9,Experimental Plot 16,703.34,Clay,Partial Shade,0
+255,3,6,Grass Restoration 2,338.99,Artificial,Full Shade,0
+256,3,3,Succulent Bed 27,670.58,Clay,Partial Shade,0
+257,10,7,Experiment Zone 7,28.14,Peaty,Full Shade,1
+258,2,1,Test Strip 27,864.69,Peaty,Partial Sun,1
+259,2,8,Bamboo Grove 39,887.77,Gravelly,Full Shade,1
+260,6,9,Front Lawn 18,606.54,Silty,Partial Sun,1
+261,5,4,South Field 26,537.11,Gravelly,Partial Sun,0
+262,4,4,Grass Restoration 29,20.67,Clay,Partial Sun,0
+263,7,7,Experimental Plot 9,922.1,Silty,Full Sun,0
+264,1,2,Green Roof Bed 19,163.53,Silty,Partial Shade,1
+265,3,4,Fungi Patch 39,946.19,Artificial,Partial Sun,1
+266,5,7,Vegetable Patch 17,148.24,Silty,Full Sun,1
+267,10,8,Test Strip 5,77.03,Clay,Full Shade,1
+268,4,4,Central Plot 22,907.56,Peaty,Partial Sun,0
+269,3,8,Wildflower Strip 47,995.4,Artificial,Full Shade,1
+270,6,6,Rain Garden 21,266.46,Clay,Full Shade,1
+271,3,7,Experiment Zone 17,689.24,Clay,Partial Sun,0
+272,4,9,Fungi Patch 16,103.64,Artificial,Full Shade,0
+273,2,5,Front Lawn 36,957.13,Gravelly,Full Sun,0
+274,7,10,Medicinal Herbs 47,636.55,Silty,Full Shade,1
+275,6,6,Test Strip 31,751.95,Gravelly,Partial Shade,0
+276,6,6,Medicinal Herbs 15,382.95,Silty,Full Sun,1
+277,4,2,Herb Spiral 43,558.41,Sandy,Full Sun,0
+278,3,4,East Field 50,938.29,Gravelly,Partial Shade,0
+279,8,8,Community Bed A 13,624.0,Gravelly,Full Shade,1
+280,1,1,Rain Garden 26,996.82,Loamy,Full Sun,0
+281,1,1,Succulent Bed 21,898.57,Artificial,Full Shade,1
+282,6,6,Herb Spiral 10,285.44,Gravelly,Partial Shade,1
+283,8,1,Wildflower Strip 8,820.42,Silty,Partial Sun,0
+284,7,9,North Orchard 21,483.58,Sandy,Partial Sun,1
+285,4,10,Hydroponic Trial 2,285.12,Artificial,Partial Sun,0
+286,7,2,Community Bed A 33,733.45,Peaty,Full Sun,1
+287,10,10,Community Bed B 47,824.55,Loamy,Full Shade,1
+288,10,9,Medicinal Herbs 29,246.03,Artificial,Full Sun,0
+289,3,10,Succulent Bed 24,278.16,Clay,Full Shade,0
+290,6,9,North Orchard 14,630.6,Peaty,Full Sun,0
+291,7,5,Flower Research 6,62.87,Loamy,Partial Sun,0
+292,1,10,Herb Spiral 34,20.53,Gravelly,Partial Sun,0
+293,2,4,Community Bed B 24,230.87,Clay,Partial Sun,1
+294,5,9,Community Bed A 49,359.71,Clay,Partial Shade,0
+295,4,8,Flower Research 2,183.45,Peaty,Full Sun,0
+296,3,4,East Field 31,982.71,Sandy,Partial Sun,1
+297,7,3,Tree Nursery 14,155.4,Peaty,Full Sun,1
+298,6,5,Experimental Plot 11,805.0,Silty,Partial Sun,0
+299,9,10,Tulip Rows 13,265.92,Artificial,Full Shade,1
+300,5,6,Bamboo Grove 33,741.98,Sandy,Partial Shade,0
+301,3,9,Central Plot 16,561.14,Clay,Full Sun,1
+302,9,10,Wildflower Strip 11,324.89,Sandy,Partial Sun,1
+303,8,2,West Orchard 39,846.88,Loamy,Full Sun,0
+304,9,1,Rain Garden 26,513.88,Sandy,Full Shade,1
+305,5,2,Succulent Bed 29,931.01,Loamy,Full Sun,0
+306,1,3,Compost Test Plot 2,938.19,Artificial,Partial Shade,0
+307,8,2,Vegetable Patch 33,939.92,Sandy,Full Sun,1
+308,10,9,Green Roof Bed 13,611.29,Peaty,Partial Sun,0
+309,1,9,Succulent Bed 28,26.8,Gravelly,Partial Sun,1
+310,2,3,Community Bed A 47,194.96,Peaty,Full Sun,1
+311,3,7,Grass Restoration 14,704.56,Clay,Full Sun,1
+312,8,9,North Orchard 15,44.56,Silty,Partial Sun,1
+313,7,10,Hydroponic Trial 38,179.66,Clay,Full Sun,1
+314,3,5,Community Bed A 46,156.46,Silty,Partial Shade,0
+315,1,1,Hydroponic Trial 8,952.66,Clay,Full Sun,1
+316,1,3,Vegetable Patch 33,910.05,Clay,Full Shade,1
+317,5,4,Shade Grove 21,567.1,Loamy,Partial Sun,0
+318,4,5,Experimental Plot 39,974.0,Loamy,Partial Sun,0
+319,10,2,Hydroponic Trial 40,566.53,Gravelly,Full Shade,0
+320,10,5,Community Bed B 29,394.6,Artificial,Full Sun,0
+321,8,4,Green Roof Bed 45,19.0,Clay,Full Shade,0
+322,10,10,Community Bed A 2,561.29,Clay,Partial Sun,1
+323,5,3,Community Bed B 41,867.67,Gravelly,Partial Shade,1
+324,3,5,Compost Test Plot 9,207.5,Gravelly,Full Shade,0
+325,1,1,Shade Grove 24,926.09,Artificial,Partial Sun,1
+326,1,10,Vegetable Patch 18,589.29,Silty,Full Shade,0
+327,10,8,Front Lawn 42,710.26,Gravelly,Full Sun,0
+328,2,10,Community Bed B 10,216.96,Loamy,Partial Sun,0
+329,3,2,Tulip Rows 44,425.23,Loamy,Partial Sun,1
+330,1,1,Green Roof Bed 1,963.41,Clay,Partial Sun,0
+331,9,1,Medicinal Herbs 33,415.58,Gravelly,Full Sun,1
+332,8,2,Herb Spiral 29,670.34,Clay,Full Shade,1
+333,1,10,Herb Spiral 11,440.72,Loamy,Full Shade,1
+334,7,5,Test Strip 33,984.73,Clay,Partial Shade,1
+335,2,10,Community Bed A 42,749.67,Artificial,Full Shade,1
+336,10,3,Shade Grove 28,520.18,Peaty,Partial Shade,0
+337,4,7,Central Plot 17,610.04,Peaty,Partial Shade,1
+338,2,4,Rose Garden 15,195.42,Silty,Partial Sun,1
+339,9,7,East Field 41,911.14,Silty,Full Shade,1
+340,5,10,Medicinal Herbs 5,802.22,Silty,Full Sun,1
+341,5,7,Fungi Patch 42,665.32,Peaty,Full Shade,1
+342,10,5,Compost Test Plot 4,238.15,Silty,Partial Sun,0
+343,6,6,Wildflower Strip 41,611.7,Sandy,Full Shade,0
+344,8,7,Green Roof Bed 26,787.05,Peaty,Partial Shade,1
+345,7,9,Rose Garden 39,784.29,Silty,Partial Sun,0
+346,6,2,Fungi Patch 35,101.07,Clay,Full Sun,1
+347,10,7,Tulip Rows 22,106.48,Peaty,Full Shade,0
+348,3,6,Community Bed A 19,611.13,Clay,Full Shade,0
+349,9,6,Test Strip 42,852.61,Sandy,Partial Shade,1
+350,1,10,Herb Spiral 43,237.22,Artificial,Partial Sun,1
+351,3,1,Front Lawn 47,943.08,Peaty,Full Shade,0
+352,9,1,Herb Spiral 45,144.28,Gravelly,Full Sun,0
+353,1,6,Tree Nursery 21,444.55,Sandy,Partial Shade,1
+354,9,3,Central Plot 36,524.87,Peaty,Partial Sun,0
+355,2,4,Front Lawn 6,578.46,Clay,Partial Sun,1
+356,8,1,Community Bed A 50,185.37,Gravelly,Partial Sun,0
+357,3,9,Bamboo Grove 47,423.56,Artificial,Full Shade,1
+358,1,5,Community Bed A 29,387.38,Silty,Partial Shade,1
+359,1,5,Front Lawn 45,853.57,Loamy,Partial Shade,1
+360,8,9,Cactus Corner 49,342.52,Artificial,Partial Sun,1
+361,3,2,Vegetable Patch 40,932.3,Silty,Partial Shade,1
+362,8,3,Rose Garden 36,495.19,Silty,Full Sun,1
+363,5,1,Rose Garden 27,984.79,Artificial,Full Shade,0
+364,2,3,Rain Garden 47,869.27,Sandy,Partial Shade,1
+365,1,9,Green Roof Bed 10,68.18,Gravelly,Partial Sun,1
+366,1,6,North Orchard 26,497.73,Sandy,Partial Shade,0
+367,6,10,Rose Garden 34,673.54,Peaty,Partial Shade,1
+368,4,4,Compost Test Plot 4,584.88,Artificial,Partial Sun,0
+369,6,10,Shade Grove 27,447.48,Clay,Partial Shade,0
+370,8,6,Experiment Zone 33,697.66,Gravelly,Full Sun,1
+371,1,3,Test Strip 32,653.6,Loamy,Partial Shade,0
+372,1,3,Blueberry Plot 2,242.26,Artificial,Partial Shade,1
+373,6,7,East Field 36,850.56,Loamy,Partial Shade,1
+374,2,10,Fungi Patch 35,904.84,Silty,Partial Shade,0
+375,7,7,Test Strip 42,542.85,Sandy,Partial Sun,1
+376,8,3,Test Strip 15,721.37,Clay,Full Shade,0
+377,10,7,West Orchard 38,66.41,Silty,Partial Sun,1
+378,2,7,Vegetable Patch 43,233.04,Peaty,Full Sun,1
+379,1,9,Flower Research 35,941.48,Loamy,Full Shade,1
+380,8,2,Compost Test Plot 8,983.22,Sandy,Full Shade,1
+381,6,2,Tulip Rows 30,386.58,Sandy,Partial Sun,1
+382,10,2,Vegetable Patch 5,675.15,Loamy,Partial Sun,1
+383,5,6,Tulip Rows 39,504.11,Artificial,Partial Sun,1
+384,8,7,Hydroponic Trial 18,623.85,Silty,Full Shade,0
+385,9,2,Central Plot 26,479.95,Loamy,Full Sun,0
+386,2,7,Test Strip 37,424.51,Clay,Partial Shade,1
+387,4,1,Community Bed B 13,204.88,Sandy,Partial Shade,0
+388,1,10,Front Lawn 50,975.91,Clay,Partial Shade,0
+389,3,9,Blueberry Plot 22,670.67,Sandy,Full Shade,0
+390,5,9,Front Lawn 10,864.8,Silty,Full Sun,1
+391,7,8,South Field 39,363.52,Loamy,Partial Shade,0
+392,4,1,Hydroponic Trial 22,559.71,Gravelly,Full Sun,0
+393,4,1,Grass Restoration 5,748.31,Artificial,Full Sun,0
+394,9,8,Succulent Bed 33,169.65,Sandy,Full Shade,0
+395,2,7,Tree Nursery 9,922.45,Artificial,Partial Shade,1
+396,7,7,Tulip Rows 23,117.45,Gravelly,Partial Shade,1
+397,4,2,South Field 7,411.59,Clay,Full Shade,1
+398,3,3,Test Strip 6,820.42,Peaty,Partial Shade,0
+399,7,10,Flower Research 7,288.11,Peaty,Partial Shade,1
+400,1,8,Front Lawn 11,307.14,Silty,Partial Sun,1
+401,7,2,East Field 3,427.73,Artificial,Full Sun,0
+402,4,2,Community Bed B 5,351.37,Gravelly,Partial Sun,1
+403,10,2,East Field 26,335.27,Clay,Partial Sun,1
+404,4,8,Hydroponic Trial 31,418.56,Artificial,Full Sun,0
+405,5,8,East Field 34,613.87,Silty,Full Sun,0
+406,8,4,Vegetable Patch 6,572.61,Sandy,Full Sun,0
+407,6,1,Rose Garden 34,452.23,Clay,Partial Shade,0
+408,10,8,Fungi Patch 33,12.42,Sandy,Full Sun,0
+409,2,2,Test Strip 40,461.26,Loamy,Partial Sun,1
+410,1,8,Community Bed A 47,989.13,Peaty,Partial Sun,0
+411,2,9,Community Bed A 16,210.33,Clay,Partial Sun,0
+412,10,2,Experiment Zone 41,202.29,Loamy,Partial Sun,1
+413,7,1,Cactus Corner 22,171.82,Silty,Full Sun,1
+414,2,4,Central Plot 25,246.47,Loamy,Full Sun,1
+415,2,9,Shade Grove 36,846.79,Loamy,Full Shade,0
+416,7,2,Central Plot 35,996.64,Sandy,Full Sun,0
+417,2,5,Wildflower Strip 40,992.08,Clay,Full Shade,0
+418,9,10,Grass Restoration 15,991.84,Gravelly,Full Sun,1
+419,4,8,Test Strip 21,741.66,Loamy,Full Shade,1
+420,5,2,Herb Spiral 25,748.13,Silty,Partial Shade,1
+421,8,7,Fungi Patch 49,937.16,Peaty,Full Sun,0
+422,9,10,Shade Grove 27,589.76,Clay,Partial Shade,1
+423,10,8,Rose Garden 10,914.9,Clay,Partial Sun,1
+424,8,2,East Field 29,940.71,Silty,Full Shade,0
+425,1,10,Succulent Bed 35,363.69,Sandy,Partial Sun,1
+426,7,10,West Orchard 3,585.97,Loamy,Partial Shade,1
+427,8,3,Blueberry Plot 47,434.28,Sandy,Partial Shade,1
+428,8,10,Cactus Corner 36,610.06,Loamy,Partial Sun,0
+429,7,3,Test Strip 9,603.52,Loamy,Partial Shade,0
+430,6,3,Community Bed B 10,387.55,Sandy,Partial Sun,1
+431,6,2,Green Roof Bed 42,795.67,Silty,Partial Sun,1
+432,8,1,Blueberry Plot 50,444.99,Silty,Partial Shade,1
+433,7,9,Hydroponic Trial 14,990.4,Loamy,Full Shade,0
+434,3,4,Hydroponic Trial 28,413.68,Clay,Full Sun,1
+435,4,4,Wildflower Strip 11,782.57,Clay,Full Shade,0
+436,4,4,Community Bed B 50,881.05,Silty,Full Shade,1
+437,1,7,Compost Test Plot 48,901.22,Loamy,Full Sun,0
+438,8,10,North Orchard 8,283.11,Clay,Full Shade,1
+439,5,8,Flower Research 44,478.56,Gravelly,Partial Sun,1
+440,9,6,Community Bed A 31,626.0,Silty,Full Shade,0
+441,5,2,Flower Research 14,190.31,Peaty,Full Shade,0
+442,2,7,Rain Garden 15,856.78,Clay,Partial Sun,0
+443,6,8,Compost Test Plot 34,977.3,Sandy,Full Sun,0
+444,8,5,Hydroponic Trial 22,153.29,Clay,Partial Sun,0
+445,2,4,Rose Garden 19,518.41,Clay,Partial Sun,0
+446,7,4,Cactus Corner 14,492.46,Silty,Partial Shade,1
+447,9,7,South Field 26,705.57,Peaty,Full Shade,0
+448,3,6,Tulip Rows 10,217.07,Silty,Partial Sun,1
+449,8,1,Grass Restoration 41,474.61,Loamy,Partial Shade,1
+450,5,10,Vegetable Patch 32,393.5,Artificial,Full Sun,1
+451,1,1,Community Bed B 11,993.18,Gravelly,Full Shade,0
+452,1,7,Cactus Corner 6,385.54,Artificial,Partial Shade,1
+453,9,8,Flower Research 20,347.65,Artificial,Partial Sun,1
+454,8,10,Cactus Corner 15,157.31,Clay,Full Sun,0
+455,5,7,Medicinal Herbs 25,289.93,Gravelly,Partial Sun,1
+456,5,6,Green Roof Bed 22,916.12,Sandy,Partial Sun,1
+457,7,4,Flower Research 41,214.83,Loamy,Full Sun,1
+458,6,4,Central Plot 25,728.9,Gravelly,Full Sun,0
+459,7,3,Cactus Corner 40,979.52,Loamy,Partial Sun,0
+460,4,2,South Field 26,475.76,Gravelly,Partial Sun,1
+461,4,3,Experiment Zone 37,25.91,Artificial,Full Sun,0
+462,6,5,East Field 9,602.59,Sandy,Partial Sun,1
+463,2,6,Tree Nursery 17,232.97,Peaty,Full Sun,0
+464,10,2,Cactus Corner 22,505.67,Silty,Full Shade,0
+465,4,6,Herb Spiral 32,29.0,Artificial,Full Sun,1
+466,6,9,Rain Garden 20,971.56,Sandy,Partial Sun,1
+467,7,4,Rose Garden 26,331.22,Clay,Partial Sun,0
+468,10,2,Experiment Zone 3,702.43,Silty,Full Shade,0
+469,5,1,Grass Restoration 17,903.8,Artificial,Partial Shade,1
+470,6,9,Community Bed A 1,694.15,Silty,Full Shade,0
+471,6,3,West Orchard 38,688.77,Clay,Full Shade,0
+472,1,9,Medicinal Herbs 17,21.54,Sandy,Full Shade,1
+473,10,4,Experiment Zone 22,460.93,Artificial,Partial Sun,0
+474,4,5,Succulent Bed 26,434.47,Silty,Partial Sun,1
+475,1,6,Green Roof Bed 10,133.03,Peaty,Partial Sun,1
+476,8,1,Fungi Patch 31,446.67,Artificial,Partial Sun,0
+477,9,3,Central Plot 38,457.39,Gravelly,Full Sun,1
+478,5,7,Test Strip 49,754.13,Loamy,Full Shade,0
+479,6,8,Experimental Plot 23,301.37,Loamy,Full Sun,1
+480,1,1,Flower Research 32,966.44,Artificial,Full Sun,0
+481,8,9,Test Strip 1,751.0,Artificial,Full Sun,0
+482,9,2,Fungi Patch 31,747.82,Clay,Full Sun,0
+483,10,6,Succulent Bed 46,840.67,Artificial,Partial Sun,0
+484,9,7,Medicinal Herbs 13,262.42,Silty,Partial Shade,0
+485,1,7,Front Lawn 10,846.67,Sandy,Partial Sun,1
+486,6,3,Herb Spiral 8,955.21,Clay,Partial Shade,0
+487,9,6,Compost Test Plot 50,61.65,Clay,Partial Shade,1
+488,4,6,Grass Restoration 7,176.14,Artificial,Full Shade,0
+489,10,6,Vegetable Patch 45,464.99,Peaty,Partial Sun,1
+490,8,7,Experiment Zone 50,496.6,Clay,Full Shade,1
+491,1,5,Tree Nursery 26,170.11,Artificial,Partial Sun,0
+492,4,4,Experiment Zone 41,921.02,Sandy,Partial Shade,1
+493,10,4,West Orchard 44,201.44,Loamy,Full Shade,1
+494,3,5,North Orchard 3,244.33,Silty,Full Shade,1
+495,4,9,Experiment Zone 2,227.56,Gravelly,Partial Shade,0
+496,9,5,Central Plot 4,241.58,Sandy,Partial Shade,1
+497,1,1,Wildflower Strip 5,114.36,Gravelly,Partial Sun,1
+498,9,6,East Field 24,42.32,Loamy,Full Shade,0
+499,3,10,Hydroponic Trial 16,614.17,Loamy,Partial Sun,1
+500,9,1,Green Roof Bed 29,402.84,Silty,Full Sun,0
