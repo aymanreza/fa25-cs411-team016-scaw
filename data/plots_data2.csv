@@ -1,0 +1,501 @@
+plot_id,user_id,location_id,plot_name,area_sq_m,soil_type,sunlight_exposure,is_active
+1,5,6,Tulip Rows 20,124.55,Heavy (clay),Partial Shade,1
+2,10,6,Fungi Patch 10,110.85,Heavy (clay),Full Sun,0
+3,2,1,Wildflower Strip 33,983.79,Heavy (clay),Partial Sun,0
+4,7,7,Tulip Rows 40,194.55,Medium,Full Sun,1
+5,3,6,Herb Spiral 8,580.16,Medium,Full Shade,0
+6,10,1,South Field 1,678.72,Heavy (clay),Full Sun,1
+7,8,3,Experiment Zone 43,275.95,Heavy (clay),Partial Shade,1
+8,3,8,Test Strip 18,69.14,Medium,Full Shade,1
+9,7,6,Hydroponic Trial 21,989.6,Medium,Partial Shade,0
+10,2,10,Flower Research 22,737.37,Heavy (clay),Full Shade,1
+11,3,3,Medicinal Herbs 12,766.36,Medium,Full Shade,1
+12,2,6,Rain Garden 11,76.27,Heavy (clay),Full Sun,1
+13,5,7,Tree Nursery 23,380.31,Light (sandy),Partial Sun,1
+14,7,9,Medicinal Herbs 38,900.1,Medium,Partial Shade,0
+15,8,3,North Orchard 37,649.26,Medium,Full Shade,1
+16,1,9,Rain Garden 45,184.72,Light (sandy),Full Shade,0
+17,10,7,South Field 46,122.22,Light (sandy),Partial Sun,0
+18,2,1,Test Strip 28,282.03,Medium,Full Shade,1
+19,10,6,Medicinal Herbs 49,397.55,Medium,Full Shade,1
+20,3,6,Experiment Zone 37,468.45,Medium,Full Sun,1
+21,9,10,Fungi Patch 18,137.73,Medium,Full Shade,1
+22,9,1,Blueberry Plot 2,828.02,Light (sandy),Partial Sun,0
+23,1,2,West Orchard 39,818.03,Medium,Partial Sun,1
+24,9,5,Succulent Bed 38,980.88,Light (sandy),Full Sun,1
+25,8,3,Grass Restoration 48,75.06,Medium,Full Shade,0
+26,9,7,Rain Garden 34,150.03,Heavy (clay),Full Shade,1
+27,3,1,Blueberry Plot 50,92.04,Light (sandy),Partial Sun,0
+28,4,7,South Field 37,167.21,Medium,Full Shade,1
+29,4,4,Grass Restoration 13,366.23,Medium,Full Sun,1
+30,6,2,Front Lawn 20,378.69,Medium,Partial Shade,1
+31,9,10,North Orchard 32,13.42,Heavy (clay),Full Shade,1
+32,8,3,Fungi Patch 5,801.87,Heavy (clay),Partial Shade,1
+33,8,6,Rain Garden 45,738.21,Heavy (clay),Partial Shade,1
+34,10,7,Rose Garden 30,277.07,Light (sandy),Full Shade,0
+35,7,3,Tree Nursery 31,991.23,Medium,Full Shade,0
+36,5,7,Grass Restoration 16,348.46,Heavy (clay),Partial Shade,1
+37,3,4,Bamboo Grove 40,950.72,Light (sandy),Full Sun,0
+38,4,7,Vegetable Patch 49,672.41,Heavy (clay),Full Shade,0
+39,7,7,North Orchard 2,988.95,Heavy (clay),Partial Sun,0
+40,9,3,Medicinal Herbs 13,71.66,Medium,Partial Shade,1
+41,10,8,Rain Garden 50,89.57,Heavy (clay),Full Sun,1
+42,1,9,Grass Restoration 31,757.7,Medium,Full Shade,1
+43,9,2,Medicinal Herbs 45,15.31,Light (sandy),Full Sun,1
+44,5,4,Medicinal Herbs 7,990.6,Heavy (clay),Full Sun,1
+45,7,8,Tulip Rows 37,194.96,Medium,Partial Sun,1
+46,1,8,Grass Restoration 3,381.45,Light (sandy),Full Sun,0
+47,5,9,Experiment Zone 41,96.72,Medium,Full Sun,0
+48,10,8,Grass Restoration 17,968.37,Medium,Partial Shade,1
+49,7,10,Flower Research 25,721.1,Heavy (clay),Partial Shade,0
+50,7,1,Wildflower Strip 19,330.43,Medium,Full Shade,1
+51,6,8,Grass Restoration 6,314.02,Medium,Partial Shade,1
+52,4,10,Flower Research 6,460.15,Heavy (clay),Partial Shade,1
+53,9,6,South Field 24,263.61,Heavy (clay),Full Shade,0
+54,7,4,South Field 48,43.38,Heavy (clay),Partial Shade,0
+55,10,6,Cactus Corner 6,142.57,Light (sandy),Full Shade,0
+56,8,3,Community Bed B 45,686.4,Medium,Partial Sun,1
+57,9,7,Vegetable Patch 8,388.4,Heavy (clay),Full Shade,1
+58,4,6,Experimental Plot 28,225.86,Light (sandy),Full Shade,1
+59,9,8,Green Roof Bed 5,277.3,Heavy (clay),Full Shade,0
+60,3,8,Tree Nursery 41,767.47,Medium,Partial Shade,0
+61,2,7,Bamboo Grove 16,69.53,Heavy (clay),Full Sun,0
+62,3,7,Tree Nursery 23,58.72,Light (sandy),Partial Sun,1
+63,3,1,East Field 8,829.23,Heavy (clay),Partial Sun,1
+64,9,10,Experimental Plot 27,564.41,Light (sandy),Full Sun,1
+65,3,4,Bamboo Grove 38,676.63,Medium,Partial Sun,1
+66,5,3,Community Bed B 40,791.14,Heavy (clay),Partial Shade,0
+67,10,10,Tree Nursery 43,340.76,Light (sandy),Partial Sun,1
+68,5,8,Front Lawn 8,801.74,Medium,Partial Sun,0
+69,3,1,Cactus Corner 18,334.71,Heavy (clay),Full Sun,1
+70,7,4,Rose Garden 48,925.78,Heavy (clay),Full Sun,1
+71,5,8,Wildflower Strip 5,963.74,Medium,Full Sun,1
+72,10,9,Grass Restoration 36,601.62,Heavy (clay),Partial Sun,0
+73,8,8,Experimental Plot 21,18.67,Heavy (clay),Full Sun,1
+74,3,9,Tulip Rows 35,944.83,Heavy (clay),Full Shade,1
+75,10,7,Herb Spiral 9,979.57,Heavy (clay),Full Shade,1
+76,10,7,Bamboo Grove 32,553.68,Heavy (clay),Partial Sun,1
+77,3,4,Wildflower Strip 36,264.39,Light (sandy),Partial Shade,0
+78,10,6,Blueberry Plot 9,80.6,Medium,Full Sun,0
+79,6,6,Front Lawn 43,634.06,Heavy (clay),Full Sun,0
+80,6,9,Hydroponic Trial 35,513.22,Light (sandy),Partial Shade,1
+81,5,1,Grass Restoration 45,693.49,Medium,Full Sun,1
+82,6,8,Wildflower Strip 37,235.41,Heavy (clay),Partial Sun,0
+83,7,1,Wildflower Strip 50,125.67,Light (sandy),Partial Sun,0
+84,8,5,Rose Garden 5,505.59,Light (sandy),Partial Shade,1
+85,6,2,Test Strip 8,243.55,Heavy (clay),Full Shade,1
+86,2,7,Hydroponic Trial 31,15.12,Medium,Full Shade,0
+87,6,2,Rain Garden 35,295.99,Medium,Full Shade,1
+88,10,2,Front Lawn 33,463.23,Light (sandy),Full Shade,0
+89,8,9,North Orchard 1,545.59,Light (sandy),Partial Shade,1
+90,7,1,Grass Restoration 6,315.38,Heavy (clay),Full Sun,0
+91,3,2,Tree Nursery 29,50.5,Heavy (clay),Partial Shade,1
+92,6,5,Wildflower Strip 24,890.31,Light (sandy),Partial Shade,0
+93,7,6,Flower Research 19,226.58,Light (sandy),Partial Sun,0
+94,5,3,Community Bed A 7,825.2,Light (sandy),Full Sun,1
+95,3,3,Community Bed B 10,345.32,Light (sandy),Partial Shade,0
+96,4,2,Flower Research 49,560.93,Medium,Partial Shade,0
+97,4,1,Grass Restoration 37,366.32,Light (sandy),Partial Sun,0
+98,6,6,Shade Grove 12,686.5,Light (sandy),Partial Shade,1
+99,9,1,Tree Nursery 24,895.61,Light (sandy),Full Shade,0
+100,2,1,Hydroponic Trial 7,243.2,Heavy (clay),Full Shade,1
+101,6,7,Bamboo Grove 12,991.78,Light (sandy),Full Shade,0
+102,9,3,Herb Spiral 21,188.2,Medium,Full Shade,1
+103,1,2,Experimental Plot 33,548.38,Medium,Full Shade,1
+104,9,4,West Orchard 7,463.0,Heavy (clay),Full Shade,0
+105,3,2,Front Lawn 9,141.85,Light (sandy),Partial Sun,1
+106,5,10,Tree Nursery 23,145.56,Heavy (clay),Full Shade,1
+107,7,9,Bamboo Grove 39,34.51,Light (sandy),Partial Sun,1
+108,10,9,Wildflower Strip 42,536.6,Medium,Partial Sun,1
+109,7,4,Tree Nursery 36,535.42,Medium,Partial Shade,1
+110,9,7,Bamboo Grove 24,195.89,Light (sandy),Partial Sun,1
+111,2,1,Test Strip 32,372.51,Medium,Partial Sun,1
+112,2,7,Experimental Plot 5,53.05,Light (sandy),Full Shade,0
+113,3,4,East Field 20,422.62,Light (sandy),Partial Sun,0
+114,6,5,Fungi Patch 22,767.11,Medium,Partial Shade,0
+115,6,10,Wildflower Strip 6,198.37,Medium,Full Shade,0
+116,9,8,Herb Spiral 11,291.36,Light (sandy),Full Sun,0
+117,10,4,Flower Research 41,624.71,Heavy (clay),Full Shade,1
+118,7,4,Community Bed A 48,776.34,Medium,Full Shade,1
+119,4,4,Rain Garden 9,204.85,Medium,Full Shade,1
+120,6,8,South Field 29,736.78,Light (sandy),Partial Shade,0
+121,10,3,Herb Spiral 12,243.76,Heavy (clay),Full Shade,1
+122,4,2,Shade Grove 38,378.95,Medium,Full Shade,1
+123,5,10,Fungi Patch 34,894.58,Heavy (clay),Partial Sun,0
+124,3,1,Experimental Plot 9,732.06,Medium,Full Sun,0
+125,4,1,Rose Garden 32,403.36,Light (sandy),Partial Sun,1
+126,3,10,Vegetable Patch 36,879.86,Light (sandy),Partial Shade,1
+127,2,4,Cactus Corner 26,585.13,Light (sandy),Full Sun,1
+128,1,1,Test Strip 2,388.62,Light (sandy),Full Shade,1
+129,5,5,Grass Restoration 24,638.59,Heavy (clay),Partial Shade,1
+130,7,5,Medicinal Herbs 44,505.45,Heavy (clay),Partial Sun,1
+131,3,3,Blueberry Plot 46,105.93,Light (sandy),Partial Shade,1
+132,4,2,Blueberry Plot 5,769.08,Medium,Full Sun,0
+133,3,4,Bamboo Grove 6,132.68,Light (sandy),Partial Shade,0
+134,5,3,Green Roof Bed 42,54.0,Medium,Full Shade,0
+135,1,8,Central Plot 19,570.76,Light (sandy),Full Shade,1
+136,10,4,East Field 28,377.89,Light (sandy),Full Shade,0
+137,10,10,Flower Research 20,201.31,Medium,Full Shade,1
+138,9,4,Herb Spiral 16,447.82,Light (sandy),Full Sun,0
+139,8,7,Grass Restoration 43,358.54,Light (sandy),Full Sun,0
+140,6,9,Fungi Patch 26,656.76,Medium,Partial Shade,0
+141,8,5,Community Bed B 17,55.23,Heavy (clay),Partial Sun,1
+142,2,7,South Field 13,868.64,Heavy (clay),Partial Shade,0
+143,10,5,Tulip Rows 11,728.02,Light (sandy),Full Sun,1
+144,5,4,East Field 43,180.61,Light (sandy),Full Sun,0
+145,1,8,Fungi Patch 5,186.75,Heavy (clay),Partial Shade,0
+146,5,9,Tulip Rows 36,913.46,Light (sandy),Partial Shade,0
+147,1,8,Green Roof Bed 17,998.02,Medium,Partial Shade,1
+148,6,10,South Field 42,98.55,Light (sandy),Partial Sun,1
+149,7,1,Central Plot 17,725.46,Heavy (clay),Partial Shade,1
+150,9,4,North Orchard 37,240.1,Heavy (clay),Full Sun,1
+151,8,7,Fungi Patch 16,649.72,Heavy (clay),Full Shade,0
+152,10,7,Bamboo Grove 29,253.92,Heavy (clay),Full Sun,1
+153,10,8,Blueberry Plot 20,952.48,Light (sandy),Full Shade,1
+154,2,8,Flower Research 10,213.9,Heavy (clay),Full Sun,0
+155,7,3,Front Lawn 10,952.49,Heavy (clay),Partial Sun,0
+156,7,9,Blueberry Plot 41,35.98,Light (sandy),Full Sun,1
+157,1,3,Fungi Patch 27,474.28,Light (sandy),Partial Shade,0
+158,2,10,Flower Research 18,641.9,Heavy (clay),Partial Shade,0
+159,8,1,Rose Garden 34,576.62,Medium,Partial Sun,0
+160,1,7,Vegetable Patch 27,521.82,Heavy (clay),Partial Sun,0
+161,10,10,Succulent Bed 29,223.47,Heavy (clay),Full Shade,0
+162,4,9,West Orchard 15,728.21,Light (sandy),Full Shade,1
+163,7,2,Blueberry Plot 5,732.52,Light (sandy),Full Sun,1
+164,8,5,Front Lawn 36,563.7,Light (sandy),Partial Shade,0
+165,6,5,Cactus Corner 3,740.07,Medium,Full Shade,1
+166,2,4,Hydroponic Trial 12,70.58,Medium,Partial Shade,1
+167,4,6,Wildflower Strip 35,809.06,Light (sandy),Full Shade,0
+168,9,2,Herb Spiral 39,553.72,Medium,Full Shade,1
+169,2,1,Cactus Corner 11,741.0,Light (sandy),Partial Shade,1
+170,2,6,Test Strip 18,584.58,Medium,Partial Sun,1
+171,7,9,Cactus Corner 45,114.33,Light (sandy),Full Shade,0
+172,5,6,Rain Garden 8,308.85,Heavy (clay),Partial Sun,1
+173,7,10,Hydroponic Trial 50,542.11,Heavy (clay),Full Shade,0
+174,8,10,Herb Spiral 11,944.7,Light (sandy),Full Shade,1
+175,10,8,Cactus Corner 10,729.28,Heavy (clay),Partial Shade,0
+176,7,4,Bamboo Grove 11,925.23,Light (sandy),Partial Shade,1
+177,1,2,Front Lawn 39,664.14,Light (sandy),Partial Sun,1
+178,3,8,Wildflower Strip 9,838.08,Heavy (clay),Full Shade,1
+179,3,4,Central Plot 1,290.96,Light (sandy),Partial Sun,1
+180,4,3,Medicinal Herbs 10,312.11,Light (sandy),Partial Sun,0
+181,5,6,North Orchard 1,889.64,Heavy (clay),Partial Sun,0
+182,2,2,Herb Spiral 46,88.85,Light (sandy),Partial Sun,1
+183,1,3,Succulent Bed 47,627.61,Light (sandy),Partial Shade,1
+184,6,10,Tree Nursery 39,317.27,Heavy (clay),Full Sun,0
+185,8,4,Flower Research 14,524.03,Heavy (clay),Full Sun,0
+186,8,1,Test Strip 6,313.37,Light (sandy),Partial Shade,0
+187,8,5,North Orchard 1,818.8,Heavy (clay),Full Sun,0
+188,7,4,Tree Nursery 34,720.28,Heavy (clay),Partial Shade,1
+189,8,10,Rain Garden 25,895.45,Light (sandy),Full Shade,0
+190,5,7,Experimental Plot 5,419.75,Heavy (clay),Partial Shade,0
+191,8,5,Community Bed B 10,812.68,Heavy (clay),Partial Sun,1
+192,6,3,Experiment Zone 42,270.33,Heavy (clay),Partial Sun,1
+193,6,6,Wildflower Strip 46,330.28,Heavy (clay),Partial Shade,0
+194,7,1,Hydroponic Trial 18,123.01,Light (sandy),Full Sun,0
+195,1,4,Shade Grove 16,66.85,Heavy (clay),Full Sun,0
+196,2,9,East Field 35,427.83,Medium,Partial Shade,1
+197,10,4,Grass Restoration 20,405.81,Heavy (clay),Full Shade,0
+198,10,10,Succulent Bed 17,403.64,Heavy (clay),Full Sun,1
+199,3,1,Flower Research 3,146.69,Heavy (clay),Partial Shade,1
+200,2,2,Blueberry Plot 26,45.35,Heavy (clay),Full Sun,0
+201,9,8,Test Strip 16,545.32,Light (sandy),Full Shade,1
+202,8,10,Succulent Bed 11,870.85,Light (sandy),Partial Shade,0
+203,10,5,Bamboo Grove 4,153.16,Medium,Partial Shade,1
+204,2,4,Blueberry Plot 32,103.46,Medium,Partial Shade,0
+205,1,2,Succulent Bed 30,757.59,Light (sandy),Partial Shade,0
+206,7,6,South Field 19,872.91,Heavy (clay),Full Shade,0
+207,7,9,Cactus Corner 44,701.39,Light (sandy),Full Shade,1
+208,3,1,West Orchard 23,552.96,Medium,Partial Shade,1
+209,3,1,Community Bed A 28,192.85,Heavy (clay),Partial Shade,1
+210,5,6,Experiment Zone 14,121.1,Medium,Partial Sun,0
+211,5,5,Experiment Zone 33,227.1,Light (sandy),Full Shade,0
+212,8,7,Flower Research 50,422.64,Heavy (clay),Full Sun,0
+213,6,1,East Field 49,215.74,Light (sandy),Full Shade,0
+214,1,9,Succulent Bed 26,910.25,Medium,Partial Shade,0
+215,7,1,South Field 18,981.41,Medium,Full Sun,1
+216,2,3,Blueberry Plot 26,931.21,Light (sandy),Full Shade,0
+217,6,9,Bamboo Grove 38,684.37,Light (sandy),Full Shade,1
+218,7,5,Flower Research 12,469.19,Heavy (clay),Full Sun,1
+219,9,1,Shade Grove 19,986.66,Medium,Partial Sun,1
+220,9,8,Compost Test Plot 31,532.33,Light (sandy),Full Shade,0
+221,5,4,Medicinal Herbs 11,148.23,Heavy (clay),Full Shade,0
+222,8,9,Grass Restoration 29,95.42,Light (sandy),Partial Shade,0
+223,1,5,Fungi Patch 29,439.32,Light (sandy),Partial Shade,0
+224,8,2,Rain Garden 36,435.24,Heavy (clay),Full Sun,1
+225,5,9,Community Bed B 48,448.16,Light (sandy),Partial Sun,1
+226,6,1,Central Plot 43,190.02,Heavy (clay),Full Shade,1
+227,4,6,West Orchard 49,944.68,Heavy (clay),Full Sun,0
+228,7,5,North Orchard 40,109.77,Light (sandy),Full Shade,0
+229,1,3,North Orchard 5,748.59,Heavy (clay),Full Shade,1
+230,9,4,East Field 33,379.3,Medium,Partial Sun,1
+231,4,5,Shade Grove 20,188.3,Heavy (clay),Partial Shade,0
+232,4,9,Vegetable Patch 9,320.65,Light (sandy),Partial Sun,0
+233,3,8,Blueberry Plot 43,844.61,Medium,Partial Shade,0
+234,6,1,Rain Garden 38,690.27,Heavy (clay),Full Shade,0
+235,1,2,Community Bed B 37,570.98,Heavy (clay),Full Shade,1
+236,4,9,Experimental Plot 35,202.78,Medium,Full Shade,0
+237,6,6,East Field 17,511.88,Light (sandy),Full Sun,0
+238,1,6,Compost Test Plot 23,306.01,Light (sandy),Partial Shade,0
+239,6,9,Central Plot 7,87.77,Heavy (clay),Full Sun,1
+240,8,8,Central Plot 41,224.22,Heavy (clay),Partial Shade,0
+241,6,10,North Orchard 18,119.45,Light (sandy),Partial Sun,0
+242,5,9,Rose Garden 21,190.55,Heavy (clay),Partial Shade,0
+243,4,4,Experiment Zone 5,609.75,Light (sandy),Full Sun,1
+244,3,10,West Orchard 44,416.91,Light (sandy),Partial Shade,1
+245,9,8,Tree Nursery 44,556.19,Medium,Full Sun,0
+246,3,2,Tree Nursery 44,529.74,Medium,Partial Sun,0
+247,2,2,Rain Garden 8,345.02,Heavy (clay),Partial Sun,0
+248,5,4,Wildflower Strip 3,514.62,Medium,Partial Sun,1
+249,9,5,Hydroponic Trial 37,16.18,Medium,Full Shade,0
+250,1,8,Experiment Zone 1,255.26,Light (sandy),Full Shade,1
+251,6,7,Rain Garden 46,216.04,Medium,Full Sun,0
+252,5,9,Rose Garden 10,215.44,Light (sandy),Full Shade,0
+253,7,9,Hydroponic Trial 1,217.13,Heavy (clay),Partial Shade,1
+254,3,6,Fungi Patch 47,14.38,Medium,Full Shade,1
+255,6,7,West Orchard 48,927.45,Heavy (clay),Full Shade,0
+256,2,2,East Field 18,540.62,Medium,Full Sun,0
+257,5,8,Rain Garden 5,436.64,Heavy (clay),Full Sun,1
+258,10,2,East Field 45,871.13,Heavy (clay),Full Shade,0
+259,2,10,Herb Spiral 18,941.28,Medium,Full Shade,1
+260,1,9,South Field 16,772.72,Light (sandy),Full Sun,0
+261,9,5,Compost Test Plot 35,588.32,Light (sandy),Partial Sun,1
+262,1,5,Fungi Patch 40,558.02,Light (sandy),Full Sun,1
+263,1,8,Compost Test Plot 10,626.18,Light (sandy),Partial Sun,1
+264,10,8,Bamboo Grove 25,377.53,Heavy (clay),Partial Sun,0
+265,4,5,Tulip Rows 13,460.37,Medium,Partial Shade,1
+266,3,6,North Orchard 3,920.58,Heavy (clay),Full Shade,1
+267,1,4,Wildflower Strip 27,192.38,Light (sandy),Partial Sun,0
+268,4,10,South Field 38,886.28,Medium,Full Sun,0
+269,4,8,Test Strip 24,441.45,Light (sandy),Full Shade,0
+270,9,3,Herb Spiral 44,322.73,Medium,Partial Sun,0
+271,5,6,Rose Garden 8,690.02,Light (sandy),Partial Shade,1
+272,7,2,East Field 31,343.96,Light (sandy),Full Shade,1
+273,10,10,Medicinal Herbs 49,15.86,Medium,Partial Shade,1
+274,2,1,Blueberry Plot 49,24.69,Light (sandy),Partial Shade,1
+275,9,5,Experimental Plot 19,851.7,Heavy (clay),Full Shade,1
+276,2,4,West Orchard 7,90.44,Medium,Partial Shade,1
+277,1,3,Succulent Bed 17,65.13,Light (sandy),Full Sun,0
+278,8,10,Experimental Plot 18,638.06,Light (sandy),Partial Sun,1
+279,10,10,Grass Restoration 41,696.36,Light (sandy),Full Shade,0
+280,8,5,Community Bed B 1,12.96,Medium,Full Shade,1
+281,7,6,Rose Garden 13,990.86,Heavy (clay),Partial Sun,1
+282,1,9,Experiment Zone 13,364.34,Medium,Partial Sun,0
+283,6,6,Bamboo Grove 21,407.25,Heavy (clay),Full Sun,1
+284,5,5,Community Bed B 14,116.45,Medium,Full Sun,0
+285,6,10,Tree Nursery 40,261.82,Medium,Full Shade,1
+286,7,10,Blueberry Plot 44,239.73,Heavy (clay),Full Shade,0
+287,9,1,Tulip Rows 37,931.29,Medium,Full Sun,1
+288,6,6,Experimental Plot 47,233.23,Light (sandy),Full Shade,0
+289,4,6,Hydroponic Trial 48,638.61,Medium,Full Sun,1
+290,4,4,Rain Garden 36,519.71,Light (sandy),Partial Shade,1
+291,10,6,Tree Nursery 27,276.65,Medium,Partial Sun,1
+292,6,2,Grass Restoration 7,504.74,Light (sandy),Full Sun,0
+293,6,2,Succulent Bed 11,156.55,Medium,Partial Shade,0
+294,1,6,Blueberry Plot 18,82.45,Medium,Full Shade,1
+295,4,5,Central Plot 21,638.73,Medium,Full Shade,0
+296,5,1,Test Strip 16,416.18,Medium,Partial Sun,1
+297,10,2,Cactus Corner 39,76.63,Heavy (clay),Full Shade,0
+298,3,7,Community Bed A 38,344.07,Light (sandy),Partial Shade,0
+299,6,9,Wildflower Strip 9,195.43,Medium,Full Shade,1
+300,6,1,Hydroponic Trial 30,679.72,Medium,Partial Shade,1
+301,7,3,South Field 30,847.27,Medium,Full Shade,1
+302,1,8,Bamboo Grove 29,45.03,Heavy (clay),Partial Shade,0
+303,7,9,Experiment Zone 13,925.12,Medium,Full Shade,1
+304,8,6,Tulip Rows 29,358.32,Heavy (clay),Full Shade,1
+305,1,2,Fungi Patch 6,820.33,Light (sandy),Full Sun,0
+306,1,7,Rain Garden 47,935.11,Heavy (clay),Full Shade,1
+307,5,8,Rose Garden 12,432.73,Light (sandy),Full Shade,1
+308,7,4,Flower Research 21,765.88,Heavy (clay),Full Sun,0
+309,10,7,Community Bed A 7,344.61,Medium,Partial Sun,1
+310,8,8,Tree Nursery 8,236.84,Medium,Full Sun,1
+311,6,1,Succulent Bed 2,771.0,Medium,Partial Sun,1
+312,2,2,Bamboo Grove 36,30.04,Heavy (clay),Full Sun,1
+313,1,5,Experimental Plot 47,278.93,Heavy (clay),Partial Sun,1
+314,4,3,Herb Spiral 11,757.61,Medium,Partial Sun,1
+315,1,5,Green Roof Bed 34,383.44,Light (sandy),Partial Sun,1
+316,5,2,East Field 50,156.59,Medium,Full Shade,1
+317,10,5,Cactus Corner 42,457.78,Medium,Full Sun,1
+318,10,6,Hydroponic Trial 37,276.1,Light (sandy),Full Sun,1
+319,2,4,Rose Garden 2,945.55,Medium,Partial Sun,0
+320,7,9,North Orchard 40,55.82,Light (sandy),Partial Shade,0
+321,1,4,Tree Nursery 47,936.82,Heavy (clay),Full Sun,0
+322,6,5,Cactus Corner 6,172.42,Light (sandy),Partial Shade,0
+323,9,4,South Field 33,107.29,Heavy (clay),Partial Sun,1
+324,6,10,Central Plot 34,331.22,Light (sandy),Partial Sun,0
+325,4,5,Vegetable Patch 37,648.84,Light (sandy),Partial Shade,0
+326,2,9,Experimental Plot 1,703.64,Medium,Full Sun,1
+327,4,9,Succulent Bed 24,12.5,Medium,Partial Sun,0
+328,3,7,Experimental Plot 46,680.82,Heavy (clay),Full Shade,1
+329,9,7,Shade Grove 8,867.7,Medium,Full Shade,1
+330,3,7,Bamboo Grove 9,244.91,Light (sandy),Partial Sun,0
+331,4,6,Medicinal Herbs 14,174.51,Medium,Full Shade,0
+332,10,2,Tree Nursery 42,312.8,Light (sandy),Partial Sun,0
+333,8,5,Green Roof Bed 7,783.34,Light (sandy),Partial Sun,0
+334,6,10,Medicinal Herbs 28,60.86,Heavy (clay),Full Sun,0
+335,3,6,Tulip Rows 33,371.57,Heavy (clay),Partial Sun,1
+336,7,4,Green Roof Bed 26,987.98,Medium,Partial Sun,1
+337,6,9,Front Lawn 39,617.29,Heavy (clay),Partial Sun,0
+338,8,3,Hydroponic Trial 39,107.84,Medium,Partial Shade,1
+339,9,6,Flower Research 11,140.29,Heavy (clay),Full Sun,0
+340,6,8,Rose Garden 46,630.67,Light (sandy),Full Shade,0
+341,8,6,Bamboo Grove 24,741.43,Medium,Partial Shade,1
+342,5,4,Front Lawn 19,553.24,Light (sandy),Partial Shade,1
+343,4,8,Experimental Plot 36,620.41,Heavy (clay),Partial Shade,0
+344,5,4,Bamboo Grove 39,517.44,Heavy (clay),Partial Sun,0
+345,10,4,Green Roof Bed 26,127.91,Heavy (clay),Full Sun,1
+346,2,3,Rain Garden 27,626.8,Light (sandy),Partial Shade,0
+347,3,9,Central Plot 14,66.26,Medium,Partial Sun,0
+348,9,5,Front Lawn 33,234.62,Medium,Partial Sun,0
+349,5,6,Vegetable Patch 25,357.1,Medium,Partial Shade,0
+350,1,1,East Field 44,551.22,Light (sandy),Full Sun,1
+351,4,6,Shade Grove 14,206.13,Light (sandy),Partial Sun,0
+352,4,1,Cactus Corner 18,23.03,Light (sandy),Partial Shade,0
+353,7,10,Rain Garden 1,364.72,Light (sandy),Partial Sun,1
+354,3,3,Herb Spiral 24,483.86,Medium,Full Sun,1
+355,7,3,Tree Nursery 40,315.82,Heavy (clay),Full Sun,1
+356,3,5,Grass Restoration 33,431.54,Heavy (clay),Partial Sun,1
+357,8,8,Community Bed B 35,606.44,Medium,Partial Sun,1
+358,6,2,Tree Nursery 6,353.61,Medium,Partial Shade,0
+359,10,6,Shade Grove 6,840.14,Heavy (clay),Partial Shade,0
+360,9,2,Bamboo Grove 13,49.67,Heavy (clay),Partial Shade,0
+361,10,7,West Orchard 20,441.99,Light (sandy),Full Shade,0
+362,1,9,Green Roof Bed 46,325.16,Medium,Partial Shade,0
+363,1,7,Bamboo Grove 9,79.3,Medium,Partial Sun,1
+364,8,1,Hydroponic Trial 9,854.8,Light (sandy),Partial Sun,0
+365,2,2,West Orchard 16,957.37,Heavy (clay),Partial Shade,1
+366,4,10,East Field 4,622.65,Medium,Full Sun,0
+367,10,9,Wildflower Strip 11,566.79,Light (sandy),Partial Sun,1
+368,1,10,Shade Grove 14,843.29,Light (sandy),Full Shade,0
+369,3,3,Flower Research 40,21.85,Heavy (clay),Full Shade,1
+370,10,7,Flower Research 5,998.85,Medium,Partial Sun,1
+371,2,7,Community Bed A 13,31.74,Heavy (clay),Full Sun,1
+372,6,6,Green Roof Bed 20,735.03,Light (sandy),Full Shade,0
+373,3,9,Blueberry Plot 10,170.01,Medium,Full Shade,1
+374,5,6,West Orchard 25,598.22,Light (sandy),Full Shade,1
+375,4,5,Shade Grove 50,486.74,Heavy (clay),Full Sun,1
+376,5,5,Herb Spiral 21,309.16,Medium,Full Sun,1
+377,7,8,Rain Garden 44,129.03,Light (sandy),Full Shade,0
+378,6,7,Green Roof Bed 17,354.6,Medium,Full Shade,0
+379,7,6,Test Strip 33,547.71,Medium,Partial Sun,1
+380,4,5,Bamboo Grove 41,584.22,Heavy (clay),Full Shade,0
+381,8,10,Vegetable Patch 29,118.61,Light (sandy),Full Shade,0
+382,4,2,West Orchard 30,866.78,Light (sandy),Partial Shade,1
+383,1,1,Experimental Plot 42,782.85,Light (sandy),Partial Sun,1
+384,2,1,South Field 4,319.78,Medium,Partial Sun,1
+385,10,3,Wildflower Strip 40,362.38,Heavy (clay),Partial Sun,0
+386,3,5,Tree Nursery 46,122.18,Light (sandy),Full Sun,1
+387,2,2,Compost Test Plot 33,641.56,Medium,Partial Shade,1
+388,5,9,Vegetable Patch 29,514.04,Medium,Full Sun,0
+389,3,10,Test Strip 11,660.37,Medium,Partial Shade,1
+390,1,3,Fungi Patch 49,544.03,Light (sandy),Full Shade,1
+391,9,3,North Orchard 42,240.86,Light (sandy),Partial Shade,0
+392,7,6,Rose Garden 4,620.02,Heavy (clay),Full Shade,1
+393,6,2,Succulent Bed 16,142.53,Light (sandy),Partial Sun,0
+394,9,4,East Field 16,269.44,Heavy (clay),Full Shade,0
+395,3,7,Green Roof Bed 14,640.95,Medium,Partial Shade,0
+396,10,10,Tulip Rows 19,767.1,Light (sandy),Full Shade,1
+397,7,7,Bamboo Grove 42,708.67,Medium,Full Sun,0
+398,3,6,Flower Research 20,237.74,Medium,Partial Shade,1
+399,3,8,Cactus Corner 38,53.43,Heavy (clay),Partial Shade,0
+400,8,9,Herb Spiral 11,885.17,Light (sandy),Partial Shade,1
+401,3,8,Experimental Plot 45,694.28,Light (sandy),Partial Shade,1
+402,6,8,Vegetable Patch 42,362.34,Medium,Full Sun,1
+403,7,1,Medicinal Herbs 10,102.11,Light (sandy),Partial Shade,1
+404,8,1,Community Bed A 1,946.81,Heavy (clay),Partial Sun,1
+405,9,1,Experiment Zone 25,212.84,Heavy (clay),Full Shade,0
+406,3,6,West Orchard 18,452.36,Heavy (clay),Partial Sun,1
+407,6,7,West Orchard 49,210.64,Medium,Partial Shade,1
+408,7,3,East Field 35,675.44,Light (sandy),Full Shade,0
+409,1,7,Bamboo Grove 2,534.2,Heavy (clay),Full Shade,0
+410,6,9,Rose Garden 5,666.34,Medium,Partial Sun,1
+411,10,7,Front Lawn 26,981.08,Light (sandy),Partial Shade,0
+412,2,2,Medicinal Herbs 20,733.23,Heavy (clay),Full Shade,0
+413,9,2,Herb Spiral 15,617.72,Medium,Partial Sun,1
+414,2,4,South Field 43,513.32,Medium,Full Shade,0
+415,6,10,Test Strip 11,364.77,Medium,Partial Sun,0
+416,9,4,Green Roof Bed 49,35.65,Heavy (clay),Full Shade,1
+417,7,4,Succulent Bed 11,641.38,Medium,Full Shade,1
+418,9,2,Bamboo Grove 29,595.97,Medium,Full Sun,1
+419,5,3,Front Lawn 33,565.53,Heavy (clay),Full Shade,1
+420,10,10,Hydroponic Trial 7,849.21,Heavy (clay),Partial Shade,1
+421,4,2,Flower Research 8,649.42,Heavy (clay),Partial Sun,0
+422,2,4,Medicinal Herbs 37,18.82,Heavy (clay),Partial Sun,0
+423,3,2,Medicinal Herbs 42,527.45,Heavy (clay),Partial Shade,0
+424,7,10,Rose Garden 40,116.08,Heavy (clay),Full Shade,1
+425,6,1,West Orchard 45,893.63,Heavy (clay),Full Shade,1
+426,5,10,Compost Test Plot 38,274.09,Heavy (clay),Partial Sun,1
+427,2,2,Central Plot 19,958.95,Light (sandy),Partial Shade,1
+428,6,10,Blueberry Plot 4,689.71,Heavy (clay),Partial Shade,1
+429,10,2,Herb Spiral 13,828.27,Light (sandy),Partial Sun,0
+430,5,10,Rose Garden 18,417.93,Medium,Partial Shade,1
+431,9,8,Shade Grove 17,881.27,Heavy (clay),Full Sun,0
+432,2,3,Rain Garden 23,606.32,Heavy (clay),Partial Shade,1
+433,9,7,Rose Garden 3,44.84,Light (sandy),Partial Shade,0
+434,2,1,Flower Research 24,897.87,Heavy (clay),Partial Sun,1
+435,9,4,Grass Restoration 23,809.89,Medium,Partial Sun,1
+436,1,4,East Field 50,708.85,Light (sandy),Full Sun,1
+437,10,3,Fungi Patch 44,129.44,Medium,Partial Sun,1
+438,10,7,Rain Garden 33,586.48,Heavy (clay),Partial Sun,0
+439,1,8,Rain Garden 41,63.89,Light (sandy),Partial Sun,1
+440,6,5,Central Plot 40,854.53,Medium,Full Shade,0
+441,10,5,Community Bed B 8,894.27,Heavy (clay),Full Sun,0
+442,4,7,West Orchard 47,940.92,Medium,Full Sun,0
+443,1,8,Hydroponic Trial 35,90.47,Heavy (clay),Full Sun,1
+444,3,4,Wildflower Strip 22,449.37,Heavy (clay),Full Sun,0
+445,1,4,Shade Grove 26,668.86,Medium,Full Sun,0
+446,2,5,Shade Grove 44,837.68,Light (sandy),Partial Sun,1
+447,3,4,North Orchard 2,141.62,Light (sandy),Partial Sun,1
+448,10,7,Wildflower Strip 32,999.43,Medium,Partial Sun,0
+449,5,4,Rain Garden 48,570.21,Medium,Full Sun,1
+450,5,3,South Field 35,568.32,Medium,Partial Shade,0
+451,6,7,West Orchard 48,440.49,Heavy (clay),Full Shade,1
+452,5,9,Central Plot 3,963.55,Heavy (clay),Full Sun,0
+453,3,7,Test Strip 18,197.71,Medium,Partial Shade,1
+454,3,2,Succulent Bed 21,789.22,Light (sandy),Full Sun,1
+455,4,9,Blueberry Plot 2,168.49,Light (sandy),Full Sun,0
+456,9,5,Vegetable Patch 22,593.15,Light (sandy),Partial Shade,1
+457,8,2,Rain Garden 37,96.53,Medium,Full Shade,0
+458,4,3,Bamboo Grove 2,111.35,Heavy (clay),Full Sun,0
+459,1,3,Medicinal Herbs 39,851.34,Medium,Full Sun,0
+460,5,2,Community Bed B 26,684.44,Heavy (clay),Full Shade,1
+461,9,10,Blueberry Plot 39,821.54,Medium,Partial Sun,1
+462,4,6,Rain Garden 39,996.3,Light (sandy),Partial Sun,1
+463,10,5,Herb Spiral 47,660.55,Heavy (clay),Partial Sun,1
+464,5,2,Rose Garden 17,113.33,Medium,Full Sun,0
+465,4,10,Tulip Rows 39,535.1,Light (sandy),Full Sun,0
+466,9,1,South Field 5,674.27,Heavy (clay),Full Shade,1
+467,6,2,Wildflower Strip 42,30.54,Heavy (clay),Partial Sun,0
+468,8,5,Experiment Zone 23,134.28,Medium,Partial Shade,0
+469,10,1,Succulent Bed 49,595.53,Medium,Partial Shade,1
+470,9,3,Fungi Patch 26,722.71,Medium,Full Sun,0
+471,3,1,Flower Research 4,287.81,Heavy (clay),Partial Shade,0
+472,2,1,Fungi Patch 8,42.55,Light (sandy),Partial Sun,1
+473,3,1,Rain Garden 29,852.95,Heavy (clay),Full Shade,1
+474,6,1,Experiment Zone 11,653.06,Heavy (clay),Full Sun,0
+475,2,10,Experimental Plot 19,394.99,Medium,Partial Shade,0
+476,5,9,Test Strip 4,517.73,Heavy (clay),Full Sun,0
+477,7,8,West Orchard 37,903.3,Heavy (clay),Full Shade,0
+478,8,3,Tree Nursery 15,896.14,Heavy (clay),Full Sun,1
+479,4,8,Rain Garden 12,532.34,Medium,Full Sun,1
+480,6,7,Cactus Corner 36,153.43,Light (sandy),Partial Shade,1
+481,3,10,Compost Test Plot 1,156.17,Heavy (clay),Partial Shade,0
+482,5,9,Tree Nursery 17,616.72,Medium,Partial Shade,1
+483,8,6,Shade Grove 46,149.86,Light (sandy),Partial Sun,1
+484,2,10,Hydroponic Trial 5,524.67,Light (sandy),Partial Shade,0
+485,3,8,Blueberry Plot 49,457.13,Medium,Full Sun,1
+486,1,8,East Field 26,473.56,Medium,Full Shade,0
+487,5,9,Medicinal Herbs 19,168.55,Heavy (clay),Partial Shade,0
+488,1,5,East Field 35,930.66,Heavy (clay),Full Shade,0
+489,3,2,Bamboo Grove 35,758.15,Heavy (clay),Partial Shade,1
+490,2,4,Tree Nursery 39,795.99,Medium,Partial Sun,0
+491,5,10,South Field 7,689.92,Medium,Full Sun,1
+492,8,7,West Orchard 24,575.1,Heavy (clay),Full Sun,1
+493,6,4,West Orchard 43,939.57,Heavy (clay),Full Sun,0
+494,1,2,Vegetable Patch 34,546.26,Light (sandy),Partial Shade,0
+495,10,8,Fungi Patch 41,156.65,Medium,Partial Sun,1
+496,9,7,Shade Grove 5,83.81,Medium,Partial Shade,0
+497,7,9,Shade Grove 37,354.09,Light (sandy),Full Sun,0
+498,8,7,Rose Garden 16,662.77,Light (sandy),Full Shade,1
+499,8,8,Blueberry Plot 45,610.09,Medium,Partial Shade,1
+500,1,6,Hydroponic Trial 25,327.45,Heavy (clay),Full Shade,1
