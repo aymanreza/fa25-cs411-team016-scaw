@@ -21,8 +21,8 @@ function App() {
     const email = e.target[0].value;
     const password = e.target[1].value;
     try {
-      const res = await fetch('http://localhost:8080/api/login', {
-        method: 'POST',
+      const res = await fetch('/api/login', {
+	method: "POST",
 	mode: 'cors',
 	headers: {'Content-Type': 'application/json'},
 	body: JSON.stringify({email, password})
@@ -30,7 +30,7 @@ function App() {
       const data = await res.json();
       if (res.ok) {
         alert('Login Successful');
-        setShowSignInModal(true);
+        setShowSignInModal(false);
 	setIsSignedIn(true);
       } else {
         alert(data.error || 'Login Failed');

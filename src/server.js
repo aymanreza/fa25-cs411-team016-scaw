@@ -28,6 +28,7 @@ const pool = mysql.createPool({
 const app = express();
 
 app.use(cors());
+app.use(express.json());
 
 // health
 app.get('/api/healthz', async (_req, res) => {
@@ -86,7 +87,7 @@ app.post('/api/login', async(req, res) => {
   try {
     const { email, password } = req.body;
     const [rows] = await pool.query(
-      'SELECT id, name, email FROM users WHERE email = ? AND password = ?', [email, password]
+      'SELECT user_id, name, email FROM users WHERE email = ? AND password = ?', [email, password]
     );
     const user = rows[0];
     if(!user) {
@@ -100,7 +101,6 @@ app.post('/api/login', async(req, res) => {
 });
 
 app.use(express.static(path.join(__dirname, '../client/dist')));
-
 app.get('*', (_req, res) =>
   res.sendFile(path.join(__dirname, '../client/dist/index.html'))
 );
