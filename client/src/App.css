@@ -102,3 +102,9 @@ body {
   font-family: 'Montserrat';
   margin-top: 30px;
 }
+
+.hello_user {
+  margin: auto;
+  font-family: 'Montserrat';
+  color: #CCE2EA;
+}
